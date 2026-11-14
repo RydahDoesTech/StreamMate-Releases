@@ -1,8 +1,8 @@
 {
-  "versionCode": 456257,
+  "versionCode": 456368,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456257/streammate-456257.apk",
-  "sha256": "6c5878a3b9ac907092eb1ac2a9ea42aa744a4aeb160828757568e20c8c4e05fc",
-  "size": 13482279,
-  "notes": "Fixes the startup crash in build 456221. Existing app data is retained. If the app cannot open, install this repair over it through Android; do not uninstall or clear data. Credential-free in-app updates continue after recovery."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456368/streammate-456368.apk",
+  "sha256": "6698070f67751f5d16fa4b9570dd215effa7e88da9314ea58155073b376269bd",
+  "size": 13481955,
+  "notes": "TV and phone navigation, anchored playback, sports interests, live-guide discovery and reminder reliability improvements. Existing app data retained."
 }

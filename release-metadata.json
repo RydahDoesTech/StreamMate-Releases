@@ -1,11 +1,7 @@
 {
-  "versionName": "0.11.0",
-  "versionCode": 456257,
-  "apk_sha256": "6c5878a3b9ac907092eb1ac2a9ea42aa744a4aeb160828757568e20c8c4e05fc",
-  "apk_size": 13482279,
+  "versionCode": 456368,
+  "apk_sha256": "6698070f67751f5d16fa4b9570dd215effa7e88da9314ea58155073b376269bd",
   "signing_certificate_sha256": "7b041826d0e492aad30858855df2fef1dc210ee17b7402bcc4cf4b2b8375baf3",
-  "tests": 78,
-  "test_skipped": 1,
-  "lint_errors": 0,
-  "lint_warnings": 27
+  "tests": 79,
+  "lint_errors": 0
 }
