@@ -1,0 +1,9 @@
+{
+  "versionName": "0.11.0",
+  "versionCode": 456100,
+  "apk": "streammate-456100.apk",
+  "sha256": "cc6f74e29119b8eec24940846447e2ba0927b9416ccec7b6cd935e99c4d7102b",
+  "size": 13482219,
+  "signingCertificateSha256": "7b041826d0e492aad30858855df2fef1dc210ee17b7402bcc4cf4b2b8375baf3",
+  "updaterTransition": "pending; existing protected endpoint unchanged"
+}
