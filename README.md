@@ -1,3 +1,5 @@
+> **Rollout paused:** build 456221 has a reproduced startup crash. Do not install it. Keep existing app data; a signed in-place repair is being tested.
+
 # StreamMate releases
 
 Public distribution repository for StreamMate, an Android phone, tablet and TV IPTV player. Application source is maintained separately in a private repository. No playlists, subscriptions, media, provider credentials or signing keys are supplied here.
