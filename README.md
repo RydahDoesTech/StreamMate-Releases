@@ -2,6 +2,16 @@
 
 Public, secret-free release artifacts for StreamMate on Android phones, tablets and TV. Source is maintained separately in a private repository. No playlists, subscriptions, provider credentials or signing keys are included.
 
+## Current update: 0.11.0 build 456368
+
+Use **Settings → Updates → Check now** in StreamMate. Both the public GitHub updater feed and the existing protected feed advertise this build.
+
+[Download the verified APK](https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456368/streammate-456368.apk) or [view release details](https://github.com/RydahDoesTech/StreamMate-Releases/releases/tag/v0.11.0-456368).
+
+This update improves TV playback/focus, fixed phone navigation, sports interests, live-guide discovery and reminder delivery. Tested on Android TV 14 and Android 15 phone emulators with synthetic data/video, including retained upgrade data and notification denial/grant behavior. Physical TV/Fire TV and provider-specific coverage still need verification. Release gates passed, including signing, credential scanning and generated database implementations; 80 tests passed including repeated live public updater downloads. Lint: zero errors, 28 warnings.
+
+The source repository remains private; release APKs are publicly downloadable. Check SHA256SUMS and release metadata for this artifact.
+
 ## Startup repair: 0.11.0 build 456257
 
 **Build 456221 is withdrawn. Do not install it.** It omitted generated database code and crashes at startup. Build 456257 restores that code and adds compile-time and APK-class checks to prevent incomplete releases.
