@@ -1,9 +1,10 @@
 {
   "versionName": "0.11.0",
-  "versionCode": 456100,
-  "apk": "streammate-456100.apk",
-  "sha256": "cc6f74e29119b8eec24940846447e2ba0927b9416ccec7b6cd935e99c4d7102b",
-  "size": 13482219,
-  "signingCertificateSha256": "7b041826d0e492aad30858855df2fef1dc210ee17b7402bcc4cf4b2b8375baf3",
-  "updaterTransition": "pending; existing protected endpoint unchanged"
+  "versionCode": 456221,
+  "apk_sha256": "b1df87452b1ef8b93f3f2f5179d12337965c88025b3f57ddab0b0a6c4ab898e6",
+  "apk_size": 13433143,
+  "signing_certificate_sha256": "7b041826d0e492aad30858855df2fef1dc210ee17b7402bcc4cf4b2b8375baf3",
+  "tests": 79,
+  "lint_errors": 0,
+  "lint_warnings": 27
 }
