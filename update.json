@@ -1,0 +1,8 @@
+{
+  "versionCode": 456100,
+  "versionName": "0.11.0",
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456100/streammate-456100.apk",
+  "sha256": "cc6f74e29119b8eec24940846447e2ba0927b9416ccec7b6cd935e99c4d7102b",
+  "size": 13482219,
+  "notes": "Secret-free release. GitHub updater bridge preparation is in progress."
+}
