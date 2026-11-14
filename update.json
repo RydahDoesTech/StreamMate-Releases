@@ -1,8 +1,8 @@
 {
-  "versionCode": 456221,
+  "versionCode": 0,
   "versionName": "0.11.0",
   "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456221/streammate-456221.apk",
   "sha256": "b1df87452b1ef8b93f3f2f5179d12337965c88025b3f57ddab0b0a6c4ab898e6",
   "size": 13433143,
-  "notes": "Credential-free GitHub in-app updates, automatic migration from the previous default feed, and StreamMate 0.11 interface, guide, sports and player improvements."
+  "notes": "Update rollout paused while a reported startup crash in build 456221 is investigated. Do not manually install 456221."
 }
