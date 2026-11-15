@@ -1,8 +1,8 @@
 {
-  "versionCode": 457623,
+  "versionCode": 457684,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457623/streammate-457623.apk",
-  "sha256": "db309c854478d3357457d28f1a8e603726fd4f97d0842b8d0a0701e09d022086",
-  "size": 14207736,
-  "notes": "Customize Home, Sports, Movies and Shows: reorder, hide/add and resize sections, configure banners, or restore defaults without removing saved content. Straight full-width frosted headers and fixed Live controls, grouped player actions, unclipped poster captions, active-nav banner advance and temporary More destinations. Sports has grouped personalization controls, cleaner section ordering and configurable followed-team schedules. TV local focus and channel-menu restoration improved. New adaptive ribbon-M icon, monochrome themed icon and matching TV banner. Signed upgrades from 457166 tested on phone and TV emulators, with playback, D-pad, customization persistence, narrow/large-text and tablet checks. Data, signing and credential-free updates preserved. Real provider/DRM/audio playback and physical-device performance remain device checks."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457684/streammate-457684.apk",
+  "sha256": "92ce7116239252ee5d3886eab50234a61297fd342b989f0fec8f133917daaeda",
+  "size": 14225356,
+  "notes": "Smaller adaptive/themed icon; hold empty space or a banner to customize, with header and TV Menu alternatives. Cleaner corner badges and individually styled Compact/Expand and Full Screen controls. Your Teams shows live games plus the next upcoming event per followed team, with View More and preserved schedule horizons. Live Scores precedes personalization on the default Sports layout; saved custom orders stay intact. Concacaf Nations League and upcoming soccer fixtures improve national-team coverage. Phone navigation adds system-controlled haptics and cancellable predictive Back. Signed upgrades from 457623, playback continuity, TV focus, customization persistence, gestures and stable narrow/tablet layouts tested. Data, settings, signing and credential-free updates preserved. Real provider/DRM/audio playback, physical haptic feel and device performance remain device checks; one rapid emulator resize caused an accessibility-test timeout without a logged crash or ANR."
 }
