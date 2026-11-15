@@ -1,8 +1,8 @@
 {
-  "versionCode": 456468,
+  "versionCode": 456661,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456468/streammate-456468.apk",
-  "sha256": "f4d99bd65e24ca5a9f430bd91b61d750d9716938825c04f4d5debb34d5287599",
-  "size": 13514987,
-  "notes": "Floating phone navigation with localized blur, artwork-led Home, Movies and Series, and refreshed Sports with anchored TV playback. Large-font navigation keeps remaining sections in More. Signing identity unchanged; tested library and history retained during upgrade."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456661/streammate-456661.apk",
+  "sha256": "2fc3a0f7a91552369ec5abd3ab916b22f7e51eba00facf862e6635b88f987722",
+  "size": 13583200,
+  "notes": "Rotating live movie and TV hero, live-only favorite-show posters, provider-linked channel choices and artwork. Fixed phone Search, 2–60 second navigation idle timeout, uppercase headings, Sports Events and sport-to-league browsing, and stable fullscreen glass. Existing settings, data and signing identity retained. Guide availability depends on your providers; physical-device and extended GPU testing remain limited."
 }
