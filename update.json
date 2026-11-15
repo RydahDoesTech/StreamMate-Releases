@@ -1,8 +1,8 @@
 {
-  "versionCode": 457074,
+  "versionCode": 457166,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457074/streammate-457074.apk",
-  "sha256": "bb50a296f58f4de0773552c7643ea8d7acc1cbac17e5f224b3338d9121510f7e",
-  "size": 13648108,
-  "notes": "Frosted Search headers; compact swipe/remote carousels with configurable rotation; live/upcoming favorite movies, shows and followed-team events; safer showing/source choices and movie favorite labels. Compact phone guide preview, NOW shortcut and channel-position preservation. Refined Sports team/interests navigation, movie/show genre preferences, poster browsing, grouped Settings and six selected phone destinations plus More with accessible overflow. Tested signed upgrade from 456822 on phone and TV emulators. Data, settings, signing and credential-free updates retained. Provider metadata, artwork, physical-device/DRM performance and notification delivery remain source/device dependent."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457166/streammate-457166.apk",
+  "sha256": "5719a428ba53f72cf5e860baf266d654b2b9db738537a827981eab4ee1401899",
+  "size": 13664812,
+  "notes": "Straight faded frosted header with phone status-bar integration. Consistent Home-style top player across main sections; Settings keeps playback running, and Home selections reveal the player. Compact player frees browsing space. Refined Live control area, responsive guide rows and NOW preserving channel position. Follow Teams beside MY TEAMS, sport/league/team tiles and separate TV details/Follow targets. Compact artwork heroes with lower-right pill indicators. Tested signed upgrade from 457074 on phone and TV emulators, playback continuity, remote controls, large text and tablet layout. Data, settings, signing and credential-free updates retained. Physical-device, audio, DRM and private-provider playback remain unverified."
 }
