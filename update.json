@@ -1,8 +1,8 @@
 {
-  "versionCode": 457166,
+  "versionCode": 457623,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457166/streammate-457166.apk",
-  "sha256": "5719a428ba53f72cf5e860baf266d654b2b9db738537a827981eab4ee1401899",
-  "size": 13664812,
-  "notes": "Straight faded frosted header with phone status-bar integration. Consistent Home-style top player across main sections; Settings keeps playback running, and Home selections reveal the player. Compact player frees browsing space. Refined Live control area, responsive guide rows and NOW preserving channel position. Follow Teams beside MY TEAMS, sport/league/team tiles and separate TV details/Follow targets. Compact artwork heroes with lower-right pill indicators. Tested signed upgrade from 457074 on phone and TV emulators, playback continuity, remote controls, large text and tablet layout. Data, settings, signing and credential-free updates retained. Physical-device, audio, DRM and private-provider playback remain unverified."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457623/streammate-457623.apk",
+  "sha256": "db309c854478d3357457d28f1a8e603726fd4f97d0842b8d0a0701e09d022086",
+  "size": 14207736,
+  "notes": "Customize Home, Sports, Movies and Shows: reorder, hide/add and resize sections, configure banners, or restore defaults without removing saved content. Straight full-width frosted headers and fixed Live controls, grouped player actions, unclipped poster captions, active-nav banner advance and temporary More destinations. Sports has grouped personalization controls, cleaner section ordering and configurable followed-team schedules. TV local focus and channel-menu restoration improved. New adaptive ribbon-M icon, monochrome themed icon and matching TV banner. Signed upgrades from 457166 tested on phone and TV emulators, with playback, D-pad, customization persistence, narrow/large-text and tablet checks. Data, signing and credential-free updates preserved. Real provider/DRM/audio playback and physical-device performance remain device checks."
 }
