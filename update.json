@@ -1,8 +1,8 @@
 {
-  "versionCode": 456661,
+  "versionCode": 456822,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456661/streammate-456661.apk",
-  "sha256": "2fc3a0f7a91552369ec5abd3ab916b22f7e51eba00facf862e6635b88f987722",
-  "size": 13583200,
-  "notes": "Rotating live movie and TV hero, live-only favorite-show posters, provider-linked channel choices and artwork. Fixed phone Search, 2–60 second navigation idle timeout, uppercase headings, Sports Events and sport-to-league browsing, and stable fullscreen glass. Existing settings, data and signing identity retained. Guide availability depends on your providers; physical-device and extended GPU testing remain limited."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456822/streammate-456822.apk",
+  "sha256": "d987d440907747e6d6475ffd02fd3da5b92723219c0bebe5eba431d452fae0f4",
+  "size": 13598808,
+  "notes": "Clear phone navigation capacity and top Search; combined Live TV Guide/Channels; improved live Movies/Shows and Home discovery, conservatively labelled metadata suggestions and provider-linked channel choices. Even Home/followed-team tiles, featured score carousel, cleaner Sports For You, optional exit confirmation and localized live video blur with performance/platform tint fallback. Settings, data and signing identity retained. Artwork and live coverage depend on provider metadata or configured artwork service; physical-device and DRM performance remain unverified."
 }
