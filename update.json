@@ -1,8 +1,8 @@
 {
-  "versionCode": 456822,
+  "versionCode": 457074,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456822/streammate-456822.apk",
-  "sha256": "d987d440907747e6d6475ffd02fd3da5b92723219c0bebe5eba431d452fae0f4",
-  "size": 13598808,
-  "notes": "Clear phone navigation capacity and top Search; combined Live TV Guide/Channels; improved live Movies/Shows and Home discovery, conservatively labelled metadata suggestions and provider-linked channel choices. Even Home/followed-team tiles, featured score carousel, cleaner Sports For You, optional exit confirmation and localized live video blur with performance/platform tint fallback. Settings, data and signing identity retained. Artwork and live coverage depend on provider metadata or configured artwork service; physical-device and DRM performance remain unverified."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457074/streammate-457074.apk",
+  "sha256": "bb50a296f58f4de0773552c7643ea8d7acc1cbac17e5f224b3338d9121510f7e",
+  "size": 13648108,
+  "notes": "Frosted Search headers; compact swipe/remote carousels with configurable rotation; live/upcoming favorite movies, shows and followed-team events; safer showing/source choices and movie favorite labels. Compact phone guide preview, NOW shortcut and channel-position preservation. Refined Sports team/interests navigation, movie/show genre preferences, poster browsing, grouped Settings and six selected phone destinations plus More with accessible overflow. Tested signed upgrade from 456822 on phone and TV emulators. Data, settings, signing and credential-free updates retained. Provider metadata, artwork, physical-device/DRM performance and notification delivery remain source/device dependent."
 }
