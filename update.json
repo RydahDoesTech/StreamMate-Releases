@@ -1,8 +1,8 @@
 {
-  "versionCode": 456368,
+  "versionCode": 456468,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456368/streammate-456368.apk",
-  "sha256": "6698070f67751f5d16fa4b9570dd215effa7e88da9314ea58155073b376269bd",
-  "size": 13481955,
-  "notes": "TV and phone navigation, anchored playback, sports interests, live-guide discovery and reminder reliability improvements. Existing app data retained."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-456468/streammate-456468.apk",
+  "sha256": "f4d99bd65e24ca5a9f430bd91b61d750d9716938825c04f4d5debb34d5287599",
+  "size": 13514987,
+  "notes": "Floating phone navigation with localized blur, artwork-led Home, Movies and Series, and refreshed Sports with anchored TV playback. Large-font navigation keeps remaining sections in More. Signing identity unchanged; tested library and history retained during upgrade."
 }
