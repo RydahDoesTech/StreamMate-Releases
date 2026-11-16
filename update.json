@@ -1,8 +1,8 @@
 {
-  "versionCode": 458971,
+  "versionCode": 459050,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458971/streammate-458971.apk",
-  "sha256": "36f665bcb3d339a9f6c13935343182fbf4b978027ee6f56e2ee88c38fa2ee340",
-  "size": 14358384,
-  "notes": "Smoother banner transitions retain loaded artwork. Home-style search spans browsing pages, with localized frost for Suggested posters. Short and bundled show discovery, conservative duplicate-airing grouping, labelled plausible movie-edition art and title-art fallback improve browsing. Settings > About > Inspect recent artwork adds explicit per-card image checks; copied reports omit titles, URLs, providers and credentials. 157 tests passed, one optional network test skipped; signing, credential scans, generated Room and lint gates passed. Exact-artifact phone/TV emulator upgrades from 458874, playback, remote focus, carousel timing, reduced motion and image recovery passed. Physical API37 behavior and private-provider artwork remain device checks."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459050/streammate-459050.apk",
+  "sha256": "406d6b8f2a7f76c0a55e36336a00cd21ea710a5d3a4b8bbacbc07e6476f2cd66",
+  "size": 14358756,
+  "notes": "Directional banner transitions, Home-style zoom on Movies and Shows, blended readable headers and scrolling search improve browsing. Live controls remain fixed. Show grouping preserves episodes and channel choices; movie editions remain distinct. Artwork matching uses clearer aliases/year evidence and coherent poster/backdrop records. Guide descriptions appear on first selection with full-text access and preserved second-tap playback. Redundant card captions are removed; About attribution remains. 163 tests passed, one optional test skipped; signing, credential scans, generated Room and lint gates passed. Exact-artifact phone/TV emulator upgrades from 458971, playback, remote focus, guide interactions, motion, reduced motion and search scrolling passed. Private-provider listings and physical-device behavior remain device checks."
 }
