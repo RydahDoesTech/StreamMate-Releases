@@ -1,8 +1,8 @@
 {
-  "versionCode": 458131,
+  "versionCode": 458283,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458131/streammate-458131.apk",
-  "sha256": "08f28df381a5956717f71490cecee4e88a73f00cb9f9b0902694da1e0cde098f",
-  "size": 14258952,
-  "notes": "Home ambient artwork blends smoothly below the sharp hero. Slow artwork-only zoom respects Off, reduced motion, interaction and screen-reader state. Red LIVE and separate frosted SUGGESTED labels. Slim wide Home search hides on downward touch scroll and returns upward, at top or keyboard interaction; TV keeps search available. Home favorites reuse conservative same-provider show evidence and existing artwork matching, with matched/guide fallback and readable titles. Signed upgrade from 458021, phone/TV playback, remote/modal focus, screenshots, motion controls, synthetic artwork and narrow navigation tested. Existing data, preferences, signing and secret-free updater preserved. Private-provider artwork/playback, DRM, audio and physical-device performance remain device checks; artwork is not guaranteed for every listing."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458283/streammate-458283.apk",
+  "sha256": "4bfd20226286717be2fb384f1832f3640e0e01da1459e8069dad03aa08f00665",
+  "size": 14275636,
+  "notes": "Continuous artwork-colored Home background; slimmer search scrolls with the page while TV retains Search. More visible artwork-only zoom with stationary captions and dots, honoring Off, reduced motion, screen readers and interaction. Joined red LIVE/frosted SUGGESTED pill and complete responsive favorite pages. Improved series-year matching and independent artwork fallback. Playback surface stays attached across page changes. Signed upgrades from 458131 tested on phone API 35 and TV API 34 emulators, with playback, remote focus, search scrolling and artwork fixtures. Existing data, settings, signing and secret-free updater preserved. Private-provider artwork, DRM/audio and physical-device scroll performance remain device checks; artwork is not guaranteed for every listing."
 }
