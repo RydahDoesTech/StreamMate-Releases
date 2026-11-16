@@ -1,8 +1,8 @@
 {
-  "versionCode": 459050,
+  "versionCode": 459167,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459050/streammate-459050.apk",
-  "sha256": "406d6b8f2a7f76c0a55e36336a00cd21ea710a5d3a4b8bbacbc07e6476f2cd66",
-  "size": 14358756,
-  "notes": "Directional banner transitions, Home-style zoom on Movies and Shows, blended readable headers and scrolling search improve browsing. Live controls remain fixed. Show grouping preserves episodes and channel choices; movie editions remain distinct. Artwork matching uses clearer aliases/year evidence and coherent poster/backdrop records. Guide descriptions appear on first selection with full-text access and preserved second-tap playback. Redundant card captions are removed; About attribution remains. 163 tests passed, one optional test skipped; signing, credential scans, generated Room and lint gates passed. Exact-artifact phone/TV emulator upgrades from 458971, playback, remote focus, guide interactions, motion, reduced motion and search scrolling passed. Private-provider listings and physical-device behavior remain device checks."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459167/streammate-459167.apk",
+  "sha256": "23582766559c2477ccea84a66b18ccadcd4f422fc8632280e8b7a7d6f770b23e",
+  "size": 14375392,
+  "notes": "Guide matching recognizes labelled production years and categories, and compares synopsis evidence locally to distinguish same-title editions and movie/show records. Poster and backdrop stay tied to one record, with uncertain suggestions labelled. Selected guide details show year/category, more description and accessible full text, with subtle pre-blurred matching artwork and a plain fallback. TV guide entry and safe diagnostics improve. 169 tests passed; signing, credential scans, Room and lint gates passed. Exact-artifact phone/TV upgrades from 459050, playback, remote focus, guide interactions, larger text, artwork fallback and repeated cold launches passed. Physical-device and private-provider results still require confirmation."
 }
