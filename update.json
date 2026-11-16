@@ -1,8 +1,8 @@
 {
-  "versionCode": 458283,
+  "versionCode": 458378,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458283/streammate-458283.apk",
-  "sha256": "4bfd20226286717be2fb384f1832f3640e0e01da1459e8069dad03aa08f00665",
-  "size": 14275636,
-  "notes": "Continuous artwork-colored Home background; slimmer search scrolls with the page while TV retains Search. More visible artwork-only zoom with stationary captions and dots, honoring Off, reduced motion, screen readers and interaction. Joined red LIVE/frosted SUGGESTED pill and complete responsive favorite pages. Improved series-year matching and independent artwork fallback. Playback surface stays attached across page changes. Signed upgrades from 458131 tested on phone API 35 and TV API 34 emulators, with playback, remote focus, search scrolling and artwork fixtures. Existing data, settings, signing and secret-free updater preserved. Private-provider artwork, DRM/audio and physical-device scroll performance remain device checks; artwork is not guaranteed for every listing."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458378/streammate-458378.apk",
+  "sha256": "bf8ec258d5d33651d7500c8e16b0e7bebe389b297044e217ce83dbb941f623be",
+  "size": 14276100,
+  "notes": "Home retains its ambient background and selected banner across scroll-away/return, without replaying navigation advances. Improved shared Home/Shows/Movies artwork identity, caching and ordered image fallbacks. Conservative live discovery includes eligible animation/children listings and prioritizes favorites without inventing on-demand availability. Android 14+ embedded playback uses a hardware-composited surface; scrolling chrome avoids unnecessary page recomposition. Signed upgrades from 458283 tested on phone API 35 and TV API 34 emulators, including moving video, page continuity, remote controls, popup focus and Home scrolling. 138 tests passed; credential scans and unchanged signing verified. Private-provider artwork, physical-device smoothness, DRM/audio and older-device preview remain device checks; artwork is not guaranteed for every listing."
 }
