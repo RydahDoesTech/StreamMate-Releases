@@ -1,8 +1,8 @@
 {
-  "versionCode": 458682,
+  "versionCode": 458874,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458682/streammate-458682.apk",
-  "sha256": "48587e30fab13599a6c03251dcd329f2e6fcc21dbde17247ff91a89a78437844",
-  "size": 14309232,
-  "notes": "Home stays at the top as delayed guide data arrives. Banner zoom resumes at its retained phase after scrolling. Guide grouping runs off the UI thread, and ambient artwork is blurred once and reused while browsing. Shared exact-title artwork requests and alternate posters improve missing-image recovery; previous successful artwork remains a fallback during network failures. 146 tests passed; signing, credential scans and generated Room checks verified. Phone/TV emulator upgrades from 458506, playback continuity, remote focus, carousel timing and reduced motion passed. Public live-only SpongeBob artwork and forced broken-image fallback rendered successfully. Private-provider artwork and physical-device smoothness remain device checks."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458874/streammate-458874.apk",
+  "sha256": "1c2c23b716a6168cb5b4d477c7f72dbd7e4924a6aa2eebefac48be4534cd03bd",
+  "size": 14325616,
+  "notes": "Banner selection and elapsed motion survive same-airing guide refreshes. Cancelled touch pauses are cleared, and system animation settings refresh on resume. Healthy artwork stays visible while improved metadata loads; failed image candidates receive a bounded retry. Settings > About adds a local safe diagnostic report without titles, URLs, providers or credentials. 151 tests passed; signing, credential scans and generated Room checks verified. Phone/TV emulator upgrades from 458682, playback, remote focus, scroll-return timing and reduced motion passed. An 85-second recording verified zoom through a guide refresh; controlled public artwork and image-failure recovery passed. Physical-device motion and private-provider listings remain device checks."
 }
