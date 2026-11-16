@@ -1,8 +1,8 @@
 {
-  "versionCode": 457939,
+  "versionCode": 458021,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-457939/streammate-457939.apk",
-  "sha256": "dcea54746eda6a2c402b4a6c13a2cc1fcf359a193f7ee67430f61970221bccbe",
-  "size": 14242124,
-  "notes": "Wide browse search and artwork-derived ambient headers; improved conservative artwork matching, image fallbacks and XMLTV programme art. Followed teams lead Live Scores; Your Teams shows live games, otherwise the next upcoming game per team, with View More. Reliable event identities, bounded stale scores, explicit possession indicators and Combat Sports grouping. Refined segmented controls, Settings spacing, inset navigation highlight and slightly smaller adaptive/themed icon. Signed upgrades from 457684, phone/TV playback continuity, D-pad and modal focus, artwork fallback, narrow navigation and customization persistence tested. Data, preferences, signing and secret-free updates preserved. Artwork and sports coverage depend on sources; private provider/DRM/audio playback and physical-device performance remain device checks."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458021/streammate-458021.apk",
+  "sha256": "2ecd098491ed7f23771fe422a3044342706f0e11a11ba33e4a51a0cc99229007",
+  "size": 14258720,
+  "notes": "Connected artwork-derived background across status/search, spacing and featured banners. Live view/filter/timeline controls share continuous frost; sharp guide rows stay below them while scrolling. Home favorites reuse Shows' guide classification and same-provider artwork identity, with unknown titles no longer treated as movies. Shared poster error fallbacks and readable placeholders preserve conservative matching and hidden/locked restrictions. Exact signed upgrade from 457939, phone/TV playback, remote/modal focus, scrolling, artwork cases, narrow navigation and customization persistence tested. Existing data, preferences, signing and secret-free updater retained. Private-provider artwork/playback, DRM, audio and physical-device performance remain device checks."
 }
