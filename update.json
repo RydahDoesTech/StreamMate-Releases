@@ -1,8 +1,8 @@
 {
-  "versionCode": 458506,
+  "versionCode": 458682,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458506/streammate-458506.apk",
-  "sha256": "199237acc98ebcd3fff3c109a64c0aab3fddef0cd51d1a1ce959fc00ca4f9804",
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458682/streammate-458682.apk",
+  "sha256": "48587e30fab13599a6c03251dcd329f2e6fcc21dbde17247ff91a89a78437844",
   "size": 14309232,
-  "notes": "Home banners keep their elapsed rotation and artwork motion while scrolled offscreen. Tapping the active page returns to the top before advancing. Improved the existing TVmaze fallback when configured TMDB finds neither a movie nor a show, with safer cache retries; removed only the TMDB caption beneath Home favorites while retaining attribution elsewhere. Page configuration adds a compact phone sheet with an illustrative size preview and grouped choices, plus a TV dialog with remote focus restoration. Reorder, Hide/Add and Restore Defaults remain reversible; configuration survives font-size changes and immediate dismissal preserves preference writes. 142 unit tests passed, signing and credential scans verified. Phone/TV emulator upgrades, Home timing, remote focus and moving-video continuity passed. Private-provider artwork, physical-device smoothness and DRM/audio remain device checks."
+  "notes": "Home stays at the top as delayed guide data arrives. Banner zoom resumes at its retained phase after scrolling. Guide grouping runs off the UI thread, and ambient artwork is blurred once and reused while browsing. Shared exact-title artwork requests and alternate posters improve missing-image recovery; previous successful artwork remains a fallback during network failures. 146 tests passed; signing, credential scans and generated Room checks verified. Phone/TV emulator upgrades from 458506, playback continuity, remote focus, carousel timing and reduced motion passed. Public live-only SpongeBob artwork and forced broken-image fallback rendered successfully. Private-provider artwork and physical-device smoothness remain device checks."
 }
