@@ -1,8 +1,8 @@
 {
-  "versionCode": 459167,
+  "versionCode": 459280,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459167/streammate-459167.apk",
-  "sha256": "23582766559c2477ccea84a66b18ccadcd4f422fc8632280e8b7a7d6f770b23e",
-  "size": 14375392,
-  "notes": "Guide matching recognizes labelled production years and categories, and compares synopsis evidence locally to distinguish same-title editions and movie/show records. Poster and backdrop stay tied to one record, with uncertain suggestions labelled. Selected guide details show year/category, more description and accessible full text, with subtle pre-blurred matching artwork and a plain fallback. TV guide entry and safe diagnostics improve. 169 tests passed; signing, credential scans, Room and lint gates passed. Exact-artifact phone/TV upgrades from 459050, playback, remote focus, guide interactions, larger text, artwork fallback and repeated cold launches passed. Physical-device and private-provider results still require confirmation."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459280/streammate-459280.apk",
+  "sha256": "cacfff800f17af2af1d749bcb580dd4d59fb8729d41b3eab5864110c3750c6a3",
+  "size": 14392980,
+  "notes": "Home blends the selected palette into its artwork background and keeps favorite swipe paging and dots without arrows. Guide descriptions can start playback, while separate full text and expandable picker synopses remain available. Sports scores use compact aligned cards, centered snapping, dots and selected-event ambience. Movies and Shows share red LIVE / frosted SUGGESTED badges, cleaner title fallbacks and more resilient synopsis/artwork matching. The shorter phone dock adapts labels for seven items and large text; reorder rows stay synchronized and Live tabs follow the shared palette. 176 tests passed; signing, credential scanning, Room and lint checks passed. Phone/TV emulator upgrades and playback/focus checks passed; physical-device and private-provider artwork results still require confirmation."
 }
