@@ -1,8 +1,8 @@
 {
-  "versionCode": 458021,
+  "versionCode": 458131,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458021/streammate-458021.apk",
-  "sha256": "2ecd098491ed7f23771fe422a3044342706f0e11a11ba33e4a51a0cc99229007",
-  "size": 14258720,
-  "notes": "Connected artwork-derived background across status/search, spacing and featured banners. Live view/filter/timeline controls share continuous frost; sharp guide rows stay below them while scrolling. Home favorites reuse Shows' guide classification and same-provider artwork identity, with unknown titles no longer treated as movies. Shared poster error fallbacks and readable placeholders preserve conservative matching and hidden/locked restrictions. Exact signed upgrade from 457939, phone/TV playback, remote/modal focus, scrolling, artwork cases, narrow navigation and customization persistence tested. Existing data, preferences, signing and secret-free updater retained. Private-provider artwork/playback, DRM, audio and physical-device performance remain device checks."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-458131/streammate-458131.apk",
+  "sha256": "08f28df381a5956717f71490cecee4e88a73f00cb9f9b0902694da1e0cde098f",
+  "size": 14258952,
+  "notes": "Home ambient artwork blends smoothly below the sharp hero. Slow artwork-only zoom respects Off, reduced motion, interaction and screen-reader state. Red LIVE and separate frosted SUGGESTED labels. Slim wide Home search hides on downward touch scroll and returns upward, at top or keyboard interaction; TV keeps search available. Home favorites reuse conservative same-provider show evidence and existing artwork matching, with matched/guide fallback and readable titles. Signed upgrade from 458021, phone/TV playback, remote/modal focus, screenshots, motion controls, synthetic artwork and narrow navigation tested. Existing data, preferences, signing and secret-free updater preserved. Private-provider artwork/playback, DRM, audio and physical-device performance remain device checks; artwork is not guaranteed for every listing."
 }
