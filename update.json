@@ -1,8 +1,8 @@
 {
-  "versionCode": 459782,
+  "versionCode": 459873,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459782/streammate-459782.apk",
-  "sha256": "63bd29237eac93aa30a17dbf898de904e2dbf8f0ff601117a59dfa298c26203e",
-  "size": 14495477,
-  "notes": "Sports now shows an original stadium/field backdrop, selected-score tint and a scroll fade into the chosen palette. Blur zero retains shaded artwork. Phone and TV visual/focus checks passed; 194 tests passed, one skipped, lint zero errors. Signing and credential checks passed. Phone upgrade retained checked data/settings. Physical-device performance and seamless playback remain unverified; local video rendered after a test-server retry."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459873/streammate-459873.apk",
+  "sha256": "2f09aeaf23448a3e0ce94ebd5d21c9362d0585a0cbf72d7af80d693219c9a00c",
+  "size": 14512081,
+  "notes": "Smaller, subdued Sports stadium background with an earlier palette transition, selected-score tint and visible blur-off artwork. Retained Home, Movies and Shows presentations with separate catalogue state, current restriction/expiry checks, and a quiet initial skeleton distinct from completed empty results.\n\nValidation: 195 core tests passed, one skipped; lint zero errors and 46 warnings. Phone/TV presentation checks covered restrictions, expiry, empty results and controlled image failure. Phone/TV visual, remote, generated Room, signing and credential checks passed. Direct phone upgrade preserved checked tables/settings; TV upgraded through an intermediate candidate.\n\nLimits: presentation retention is memory-only. Private-provider artwork and physical-device performance remain unverified. Local video rendered on Sports, but an earlier black Live frame prevents claiming seamless playback."
 }
