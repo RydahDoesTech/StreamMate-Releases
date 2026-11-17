@@ -1,8 +1,8 @@
 {
-  "versionCode": 460277,
+  "versionCode": 460489,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460277/streammate-460277.apk",
-  "sha256": "368dcb41dfd6b5575dd91fe0bccd38babbb01eea8037a68b9ef332273922752f",
-  "size": 14512081,
-  "notes": "Sports live-score atmosphere\n\n- Selected live scores use colors from both teams. National flags retain distinct hues instead of averaging them together.\n- Stadium artwork is disabled completely while a live score card exists, including missing or failed team images. A color-only palette fallback keeps the background readable.\n- The existing stadium/field treatment remains exclusively for no-live-score states. Scrolling blends either state into the selected app palette.\n- Bounded image sampling, rapid-selection cancellation, reduced motion and blur-zero treatment are preserved.\n\nValidation: 200 tests passed, one skipped; release/debug builds and generated Room checks passed; zero lint errors (46 warnings). Signing continuity and credential scans passed. Direct 459873 upgrades were checked on phone and TV emulators, including phone database/settings retention, rendered backgrounds, scrolling, score changes and TV remote/modal return.\n\nLimits: controlled imagery, not verification of a particular physical-device ESPN request. Physical performance and seamless video startup/transitions remain unverified; local video eventually rendered after initially black emulator captures. TV private-data hashes were unavailable."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460489/streammate-460489.apk",
+  "sha256": "0f6110596b3d019bb1219a1534c4cf186885fac290403fe90ba5f116660135d2",
+  "size": 14528593,
+  "notes": "Home, guide and sports browsing\n\n- Favorites and Recently Watched have compact channel cards, current programme information, and a View all action in the heading.\n- The Live guide returns to Now on entry and resume.\n- Expand recommendations inside the poster pager. Scrolling Movies and Shows reveals more saved catalogue titles. Searching more saved guide listings remains a separate action.\n- Sports features upcoming followed-team events when live scores are unavailable. Supported UFC card times and linked boxing guide listings appear alongside team events.\n\nPhone and TV emulator checks covered guide navigation, pager expansion and Sports transitions. Physical-device scrolling performance and individual providers' event coverage remain unverified."
 }
