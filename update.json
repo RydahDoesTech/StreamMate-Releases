@@ -1,8 +1,8 @@
 {
-  "versionCode": 459436,
+  "versionCode": 459626,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459436/streammate-459436.apk",
-  "sha256": "a7b2e779c092e0c3d40147fe820968ec528ab38c52e3dc1c1a115e666722cff1",
-  "size": 14426148,
-  "notes": "Animated pull-to-refresh across Home, Live, Sports, Movies and Shows keeps existing content while fetching. Sports shows the last fully successful refresh, with an optional temporary age display. Hero carousels require loadable landscape backdrops; ordinary poster listings remain. The frosted Choose a stream picker includes a count, View more and fixed Close. The full selected-program info box activates its listing. Compact Sports cards align league, teams and scores, with palette-blended ambience. Embedded Pause/Stop hide after inactivity; tapping video reveals controls, while Full screen remains a dedicated action. 179 tests passed; signing, credential scans, generated Room checks and lint gates passed. Phone/TV emulator upgrades and targeted playback, focus, picker and refresh checks passed. Physical-device and private-provider results still need confirmation."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459626/streammate-459626.apk",
+  "sha256": "7428ca2087bf13bfb95e57ca9818b50231ab9829c7b487e6ef829c5f1cfe54ca",
+  "size": 14475848,
+  "notes": "Shared refresh/artwork requests reduce duplicate work, and optional cast loading no longer delays images. Home favorites group live and next airings while retaining episode and channel choices. Responsive suggestion paging, fixed stream-picker notice, full-page pull motion, single-tap video controls and double-tap fullscreen. Live information sits below video. Sports scores wrap on swipes and at-top reselect. Favorites/category ordering, clearer Settings and curated interests preserve existing preferences. 186 core tests passed; one optional network test skipped. Signing, credential scans, generated Room and lint gates passed. Targeted phone/TV emulator upgrades and playback, grouping, ordering persistence, paging and failed-score refresh checks passed. Physical-device and private-provider outcomes still need confirmation."
 }
