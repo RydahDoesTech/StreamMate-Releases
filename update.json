@@ -1,8 +1,8 @@
 {
-  "versionCode": 459706,
+  "versionCode": 459782,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459706/streammate-459706.apk",
-  "sha256": "7f2311911174b64150e9d75afdd83e2c7cf100d6647c4942c406e6e93bf589bc",
-  "size": 14492164,
-  "notes": "Independent Sports atmosphere blends team colors into the page palette. Stable featured loading space, browse ordering and caption heights reduce layout shifts. Coordinated Settings surfaces and TV focus, phone video overlay actions, guide information dismissal, stream chooser title favorites and category-only organization. Refresh progress, batched classification and safer imports preserve IDs and previous guide data on failure. 192 core tests passed; one optional test skipped. Release/debug builds, generated Room, signing and credential checks passed; lint had zero errors. Controlled phone/TV upgrades and playback were tested. Scrolling performance remains unverified on physical devices: a short software-rendered emulator sample remained janky. Private-provider artwork and ambiguous title grouping still require device confirmation."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459782/streammate-459782.apk",
+  "sha256": "63bd29237eac93aa30a17dbf898de904e2dbf8f0ff601117a59dfa298c26203e",
+  "size": 14495477,
+  "notes": "Sports now shows an original stadium/field backdrop, selected-score tint and a scroll fade into the chosen palette. Blur zero retains shaded artwork. Phone and TV visual/focus checks passed; 194 tests passed, one skipped, lint zero errors. Signing and credential checks passed. Phone upgrade retained checked data/settings. Physical-device performance and seamless playback remain unverified; local video rendered after a test-server retry."
 }
