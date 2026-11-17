@@ -1,8 +1,8 @@
 {
-  "versionCode": 460573,
+  "versionCode": 460681,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460573/streammate-460573.apk",
-  "sha256": "78cac9c4e5adab4ba6b3f7893c25e304da0f646a2b4cd1a719c069974571b33a",
-  "size": 14561609,
-  "notes": "- Settings headers collapse on phones. Page indicators follow swipes and featured artwork reconciles during lookup.\n- Updated frosted dialogs, sheets and secondary Sports actions.\n- Hide titles from suggestions and restore them in Interests & discovery. Favorite posters show a star.\n- Retry missing artwork directly from title options, Connections or Discovery.\n- Choose when guide reminders arrive. Subscribe to explicitly marked new episodes on a channel with guide coverage."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460681/streammate-460681.apk",
+  "sha256": "c30be1dd7e2d63f5fab717803bea8b3dfd05bc5ee7392987433c93702ff5db64",
+  "size": 14578159,
+  "notes": "StreamMate 0.11.0 (460681)\nThe playback card now shows the current programme synopsis when available. Long descriptions expand on demand. Favorite and Hide from suggestions share one row. The stream picker offers artwork retry only when needed.\nSports and Home favorite carousels show distinct positions, and the Sports possible-channels chooser uses the frosted treatment. Favorite and LIVE poster badges align at different font sizes.\nTested on phone and TV emulators with synthetic listings. A phone emulator recorded focus timeouts during validation. Physical device and private provider behavior still need confirmation. On the tested Android 15 launcher, Home entered picture-in-picture; switching directly to another app from Recents did not."
 }
