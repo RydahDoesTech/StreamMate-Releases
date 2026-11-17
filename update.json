@@ -1,8 +1,8 @@
 {
-  "versionCode": 460489,
+  "versionCode": 460573,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460489/streammate-460489.apk",
-  "sha256": "0f6110596b3d019bb1219a1534c4cf186885fac290403fe90ba5f116660135d2",
-  "size": 14528593,
-  "notes": "Home, guide and sports browsing\n\n- Favorites and Recently Watched have compact channel cards, current programme information, and a View all action in the heading.\n- The Live guide returns to Now on entry and resume.\n- Expand recommendations inside the poster pager. Scrolling Movies and Shows reveals more saved catalogue titles. Searching more saved guide listings remains a separate action.\n- Sports features upcoming followed-team events when live scores are unavailable. Supported UFC card times and linked boxing guide listings appear alongside team events.\n\nPhone and TV emulator checks covered guide navigation, pager expansion and Sports transitions. Physical-device scrolling performance and individual providers' event coverage remain unverified."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460573/streammate-460573.apk",
+  "sha256": "78cac9c4e5adab4ba6b3f7893c25e304da0f646a2b4cd1a719c069974571b33a",
+  "size": 14561609,
+  "notes": "- Settings headers collapse on phones. Page indicators follow swipes and featured artwork reconciles during lookup.\n- Updated frosted dialogs, sheets and secondary Sports actions.\n- Hide titles from suggestions and restore them in Interests & discovery. Favorite posters show a star.\n- Retry missing artwork directly from title options, Connections or Discovery.\n- Choose when guide reminders arrive. Subscribe to explicitly marked new episodes on a channel with guide coverage."
 }
