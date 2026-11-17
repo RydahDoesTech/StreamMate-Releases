@@ -1,8 +1,8 @@
 {
-  "versionCode": 459626,
+  "versionCode": 459706,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459626/streammate-459626.apk",
-  "sha256": "7428ca2087bf13bfb95e57ca9818b50231ab9829c7b487e6ef829c5f1cfe54ca",
-  "size": 14475848,
-  "notes": "Shared refresh/artwork requests reduce duplicate work, and optional cast loading no longer delays images. Home favorites group live and next airings while retaining episode and channel choices. Responsive suggestion paging, fixed stream-picker notice, full-page pull motion, single-tap video controls and double-tap fullscreen. Live information sits below video. Sports scores wrap on swipes and at-top reselect. Favorites/category ordering, clearer Settings and curated interests preserve existing preferences. 186 core tests passed; one optional network test skipped. Signing, credential scans, generated Room and lint gates passed. Targeted phone/TV emulator upgrades and playback, grouping, ordering persistence, paging and failed-score refresh checks passed. Physical-device and private-provider outcomes still need confirmation."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-459706/streammate-459706.apk",
+  "sha256": "7f2311911174b64150e9d75afdd83e2c7cf100d6647c4942c406e6e93bf589bc",
+  "size": 14492164,
+  "notes": "Independent Sports atmosphere blends team colors into the page palette. Stable featured loading space, browse ordering and caption heights reduce layout shifts. Coordinated Settings surfaces and TV focus, phone video overlay actions, guide information dismissal, stream chooser title favorites and category-only organization. Refresh progress, batched classification and safer imports preserve IDs and previous guide data on failure. 192 core tests passed; one optional test skipped. Release/debug builds, generated Room, signing and credential checks passed; lint had zero errors. Controlled phone/TV upgrades and playback were tested. Scrolling performance remains unverified on physical devices: a short software-rendered emulator sample remained janky. Private-provider artwork and ambiguous title grouping still require device confirmation."
 }
