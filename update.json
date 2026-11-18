@@ -1,8 +1,8 @@
 {
-  "versionCode": 461932,
+  "versionCode": 461998,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461932/streammate-461932.apk",
-  "sha256": "276d3aa842d617b5589886fdf3251200ad6a391cced613b0fb6b17ca96ada3b9",
-  "size": 17414590,
-  "notes": "First-time setup now previews Home with sample listings, connects an M3U or Xtream provider, and offers separate movie and show genres, sports interests and followed teams. All choices remain editable in Settings or Sports. Existing installations keep their setup.\n\nPoster recovery is scoped to the affected airing or catalogue item. A working banner and a failed poster are tracked separately. Transparent sports logos gain a thin white edge where needed; flags and existing light edges keep their original appearance.\n\nValidation used Android phone and TV emulators and synthetic listings. Actual provider artwork availability varies. Plex library loading remains under separate investigation."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461998/streammate-461998.apk",
+  "sha256": "ba34d08a3237e7a35f0f6a662f6c13a8fc444b9efed566ef345afbb4bc4a810e",
+  "size": 17431046,
+  "notes": "Settings > General > View onboarding again opens a sample-only walkthrough. You can try provider, genre, sports and team choices and exit with your real setup intact.\n\nPoster tiles can show a matching cached backdrop while a portrait loads, then switch to the portrait. Existing light borders on team logos, including the Raiders shield, are preserved. Dark transparent marks retain the outline treatment.\n\nTested on Android phone and TV emulators. Artwork availability depends on the provider and metadata source."
 }
