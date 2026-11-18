@@ -1,8 +1,8 @@
 {
-  "versionCode": 460681,
+  "versionCode": 460839,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460681/streammate-460681.apk",
-  "sha256": "c30be1dd7e2d63f5fab717803bea8b3dfd05bc5ee7392987433c93702ff5db64",
-  "size": 14578159,
-  "notes": "StreamMate 0.11.0 (460681)\nThe playback card now shows the current programme synopsis when available. Long descriptions expand on demand. Favorite and Hide from suggestions share one row. The stream picker offers artwork retry only when needed.\nSports and Home favorite carousels show distinct positions, and the Sports possible-channels chooser uses the frosted treatment. Favorite and LIVE poster badges align at different font sizes.\nTested on phone and TV emulators with synthetic listings. A phone emulator recorded focus timeouts during validation. Physical device and private provider behavior still need confirmation. On the tested Android 15 launcher, Home entered picture-in-picture; switching directly to another app from Recents did not."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460839/streammate-460839.apk",
+  "sha256": "2efd214bed44e5b7a28fa92c28ce8689f0eac867d4d9a656c26c44469795c65b",
+  "size": 14594699,
+  "notes": "Stream pickers use a consistent frosted panel, including over supported embedded video. The list counts available streams and keeps View more streams and Close together. A title-matched landscape banner appears when suitable art is available.\n\nHome gives a single followed event the full row and lets you swipe through multiple events. Large score carousels have directional cues. The player shows current programme details across the main pages. Tap the information card or its Info button to read the full details.\n\nTested on Android phone and TV emulators, including an in-place phone upgrade from build 460681. Secure video uses a readable fallback. The existing picture-in-picture limitation remains: switching apps through Overview can leave the player unpinned."
 }
