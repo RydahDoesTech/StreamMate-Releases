@@ -1,8 +1,8 @@
 {
-  "versionCode": 461439,
+  "versionCode": 461932,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461439/streammate-461439.apk",
-  "sha256": "1bcd75b6280ba75f833920faf9287cbf92a92861f74d36c965f7801894a865eb",
-  "size": 17338637,
-  "notes": "The stream picker groups View more streams, Retry artwork, and Close together. Retry remains available when a poster or matching landscape banner is missing. On-demand details check the displayed poster. Existing good images are retained. Scheduled matchup cards show the teams and local start time, with subtle colors from available logos. Popups over supported unprotected video show a stable blur. Other video surfaces use a solid local tint. Cast transport is unchanged. Tested with emulator playback; physical receivers and protected video have not been verified."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461932/streammate-461932.apk",
+  "sha256": "276d3aa842d617b5589886fdf3251200ad6a391cced613b0fb6b17ca96ada3b9",
+  "size": 17414590,
+  "notes": "First-time setup now previews Home with sample listings, connects an M3U or Xtream provider, and offers separate movie and show genres, sports interests and followed teams. All choices remain editable in Settings or Sports. Existing installations keep their setup.\n\nPoster recovery is scoped to the affected airing or catalogue item. A working banner and a failed poster are tracked separately. Transparent sports logos gain a thin white edge where needed; flags and existing light edges keep their original appearance.\n\nValidation used Android phone and TV emulators and synthetic listings. Actual provider artwork availability varies. Plex library loading remains under separate investigation."
 }
