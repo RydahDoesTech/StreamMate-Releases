@@ -1,8 +1,8 @@
 {
-  "versionCode": 461372,
+  "versionCode": 461439,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461372/streammate-461372.apk",
-  "sha256": "dc0640026863b9eacc9352a05bc41fe3adda5e6d86d82c1ca56e58ed839bd5fd",
-  "size": 17338469,
-  "notes": "StreamMate 0.11.0 (461372)\n\n- At the top of Sports, tap Sports again to cycle scheduled team events when no games are live. Swipe either way to wrap. View more team events expands when selected.\n- App dialogs use the same frost settings as the navigation bar. A stream picker with matched landscape artwork shows a crisp, full banner above a softly tinted background. Missing artwork uses standard glass.\n- Poster and banner placeholders show a gentle shimmer while loading. Reduced-motion settings keep the bars still. Failed images return to the existing fallback.\n\nValidated with synthetic guide and artwork data on Android phone and TV emulators. Physical devices, private providers and real Cast hardware were not exercised for this release."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461439/streammate-461439.apk",
+  "sha256": "1bcd75b6280ba75f833920faf9287cbf92a92861f74d36c965f7801894a865eb",
+  "size": 17338637,
+  "notes": "The stream picker groups View more streams, Retry artwork, and Close together. Retry remains available when a poster or matching landscape banner is missing. On-demand details check the displayed poster. Existing good images are retained. Scheduled matchup cards show the teams and local start time, with subtle colors from available logos. Popups over supported unprotected video show a stable blur. Other video surfaces use a solid local tint. Cast transport is unchanged. Tested with emulator playback; physical receivers and protected video have not been verified."
 }
