@@ -1,8 +1,8 @@
 {
-  "versionCode": 461068,
+  "versionCode": 461372,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461068/streammate-461068.apk",
-  "sha256": "f756f0d4487f6dc49e1b50ab0e344dcba63f654b385face4144cdd39707d0825",
-  "size": 17321945,
-  "notes": "The phone and tablet player includes Google Cast for compatible direct HTTPS M3U-provider streams. Open Cast, choose a trusted Chromecast or Google TV on the same Wi-Fi, then choose Play on TV. The phone pauses once the receiver reports playback. Android screen casting is available separately when supported by the device. Account URLs, custom headers, query tokens, local recordings and timeshift stay on the phone. Receiver format, codec, network and CORS support still apply.\n\nHome followed events and the Sports no-live schedule show page dots. Missing-art poster titles are centered. Posters no longer carry the Suggested label, banners say Featured, and the stream picker preserves the full landscape artwork.\n\nValidated with Android phone and TV emulators and synthetic listings. Playback on a physical Cast receiver has not been verified. AirPlay and phone-to-TV pairing are deferred."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461372/streammate-461372.apk",
+  "sha256": "dc0640026863b9eacc9352a05bc41fe3adda5e6d86d82c1ca56e58ed839bd5fd",
+  "size": 17338469,
+  "notes": "StreamMate 0.11.0 (461372)\n\n- At the top of Sports, tap Sports again to cycle scheduled team events when no games are live. Swipe either way to wrap. View more team events expands when selected.\n- App dialogs use the same frost settings as the navigation bar. A stream picker with matched landscape artwork shows a crisp, full banner above a softly tinted background. Missing artwork uses standard glass.\n- Poster and banner placeholders show a gentle shimmer while loading. Reduced-motion settings keep the bars still. Failed images return to the existing fallback.\n\nValidated with synthetic guide and artwork data on Android phone and TV emulators. Physical devices, private providers and real Cast hardware were not exercised for this release."
 }
