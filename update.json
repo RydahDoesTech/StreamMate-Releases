@@ -1,8 +1,8 @@
 {
-  "versionCode": 461998,
+  "versionCode": 462079,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461998/streammate-461998.apk",
-  "sha256": "ba34d08a3237e7a35f0f6a662f6c13a8fc444b9efed566ef345afbb4bc4a810e",
-  "size": 17431046,
-  "notes": "Settings > General > View onboarding again opens a sample-only walkthrough. You can try provider, genre, sports and team choices and exit with your real setup intact.\n\nPoster tiles can show a matching cached backdrop while a portrait loads, then switch to the portrait. Existing light borders on team logos, including the Raiders shield, are preserved. Dark transparent marks retain the outline treatment.\n\nTested on Android phone and TV emulators. Artwork availability depends on the provider and metadata source."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462079/streammate-462079.apk",
+  "sha256": "22f97b4132015cd4aab8137b7cbfd83e7493a529ca22a4ce171b5433de143f43",
+  "size": 17447482,
+  "notes": "Reopen onboarding from Settings > General to edit providers, movie and show interests, sports interests and followed teams. Home favorite posters show a single-line title and airtime. Open the stream picker for additional airings."
 }
