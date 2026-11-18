@@ -1,8 +1,8 @@
 {
-  "versionCode": 460839,
+  "versionCode": 461068,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-460839/streammate-460839.apk",
-  "sha256": "2efd214bed44e5b7a28fa92c28ce8689f0eac867d4d9a656c26c44469795c65b",
-  "size": 14594699,
-  "notes": "Stream pickers use a consistent frosted panel, including over supported embedded video. The list counts available streams and keeps View more streams and Close together. A title-matched landscape banner appears when suitable art is available.\n\nHome gives a single followed event the full row and lets you swipe through multiple events. Large score carousels have directional cues. The player shows current programme details across the main pages. Tap the information card or its Info button to read the full details.\n\nTested on Android phone and TV emulators, including an in-place phone upgrade from build 460681. Secure video uses a readable fallback. The existing picture-in-picture limitation remains: switching apps through Overview can leave the player unpinned."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-461068/streammate-461068.apk",
+  "sha256": "f756f0d4487f6dc49e1b50ab0e344dcba63f654b385face4144cdd39707d0825",
+  "size": 17321945,
+  "notes": "The phone and tablet player includes Google Cast for compatible direct HTTPS M3U-provider streams. Open Cast, choose a trusted Chromecast or Google TV on the same Wi-Fi, then choose Play on TV. The phone pauses once the receiver reports playback. Android screen casting is available separately when supported by the device. Account URLs, custom headers, query tokens, local recordings and timeshift stay on the phone. Receiver format, codec, network and CORS support still apply.\n\nHome followed events and the Sports no-live schedule show page dots. Missing-art poster titles are centered. Posters no longer carry the Suggested label, banners say Featured, and the stream picker preserves the full landscape artwork.\n\nValidated with Android phone and TV emulators and synthetic listings. Playback on a physical Cast receiver has not been verified. AirPlay and phone-to-TV pairing are deferred."
 }
