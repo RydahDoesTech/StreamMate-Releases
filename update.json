@@ -1,8 +1,8 @@
 {
-  "versionCode": 463336,
+  "versionCode": 463439,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463336/streammate-463336.apk",
-  "sha256": "1b08d14b4577f8e2dcdbce701c2b4dbfedf67d7cbec0a94f7ff8b37f65c04291",
-  "size": 17496638,
-  "notes": "StreamMate 0.11.0 (463336)\n\nHome, Movies and Shows keep a decoded portrait through guide refreshes and grouped airing changes. Tiles with missing artwork can still recover when a portrait becomes available.\n\nSetup has clearer genre icons, source descriptions and reminder status, with reduced-motion support. Swiping past source setup asks for confirmation. Existing combined combat interests migrate to separate UFC and Boxing choices.\n\nVerified with synthetic guide and provider data on Android emulators. Private provider artwork and physical-device playback remain unverified. Plex is available in the source chooser; its discovery and playback were not tested in this update."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463439/streammate-463439.apk",
+  "sha256": "351fb10a463c3ec5ae1a29d38f4cda93ad3b9a516c99485eeed82252e7e99056",
+  "size": 17496634,
+  "notes": "StreamMate 0.11.0 (463439)\n\n- Keeps verified portrait art on Home, Movies and Shows during guide refresh. A conflicting edition can show a title placeholder until its portrait arrives.\n- Opens Welcome on a first launch after an upgrade when setup has not started. Empty Home offers Finish setup if setup was already marked complete.\n- Slows the Welcome and All Set shimmer and respects reduced motion.\n- The default phone menu is Home, Live TV, Shows, Movies, Sports and More. Existing custom layouts are preserved.\n\nTested on phone and TV emulators with synthetic guide data."
 }
