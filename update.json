@@ -1,8 +1,8 @@
 {
-  "versionCode": 462680,
+  "versionCode": 462788,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462680/streammate-462680.apk",
-  "sha256": "b0b8af7407655b38bcc195a6044d7b9305fb5b1e718a8c209a88b8d47f94084b",
-  "size": 17463866,
-  "notes": "Welcome, Sources, Movies & Shows, Your Sports and Done now guide you through setup. Replay setup in Settings to edit your choices. Long pages let you scroll through the remaining options before continuing.\n\nSports interests group club and national competitions, and a local sample score card previews what following a team looks like. The preview respects reduced motion.\n\nHome, Movies and Shows keep an existing portrait when an artwork refresh returns only a landscape backdrop. A newly available portrait can then replace the fallback."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462788/streammate-462788.apk",
+  "sha256": "0df0c1606d9134589357e060d185609fdb2f646a457b956dd5acb09540cb484a",
+  "size": 17480250,
+  "notes": "Setup now includes an optional Reminders step, a centered Welcome and All Set, and clearer source and genre choices. Notification permission is requested when you choose Enable notifications. Movies and shows can share genre picks or keep separate lists. Large-text layouts keep the controls clear of scrolling content.\n\nFavorite posters keep their portrait when artwork refresh returns a landscape image labeled as a poster. A genuine new portrait can still replace the earlier image. Verified with grouped fixture airings on Home, Movies and Shows."
 }
