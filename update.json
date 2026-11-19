@@ -1,8 +1,8 @@
 {
-  "versionCode": 463550,
+  "versionCode": 463600,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463550/streammate-463550.apk",
-  "sha256": "1dc10b225517ff48d942270adf299f5fe7737d46b63577848f72d499079e6898",
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463600/streammate-463600.apk",
+  "sha256": "2c02d3a40c9c30477481518b33c0d494addaed62e2ac7087396aabf654ed9c1c",
   "size": 17513018,
-  "notes": "Featured on Home, Movies and Shows now gives matching titles a boost using your saved genres and topics. Other eligible titles stay available.\n\nSports Live Scores and Events now open with your selected leagues and followed teams. Choose All Leagues to see the wider scoreboard. The upcoming carousel starts with the earliest game and remembers your selection during a refresh. Basketball and Soccer include a National Teams picker, with separate men's and women's Olympic basketball teams. Boxing listings show matchup details when supplied by the broadcaster."
+  "notes": "Choose My leagues & teams or All leagues in Sports > Personalize. The scores and events filter works as before, with more room on the main Sports page.\n\nTeam logos now outline inner openings where needed. Boxing listings use available guide subtitles and show a glove icon, including when the broadcaster supplies no matchup. Home Featured banners now display the correct separators between show type, year and airtime."
 }
