@@ -1,8 +1,8 @@
 {
-  "versionCode": 463439,
+  "versionCode": 463509,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463439/streammate-463439.apk",
-  "sha256": "351fb10a463c3ec5ae1a29d38f4cda93ad3b9a516c99485eeed82252e7e99056",
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463509/streammate-463509.apk",
+  "sha256": "d2c93eb99dcf235587d2b96fdf22fa594847a1f9583a851a298c150997ac927b",
   "size": 17496634,
-  "notes": "StreamMate 0.11.0 (463439)\n\n- Keeps verified portrait art on Home, Movies and Shows during guide refresh. A conflicting edition can show a title placeholder until its portrait arrives.\n- Opens Welcome on a first launch after an upgrade when setup has not started. Empty Home offers Finish setup if setup was already marked complete.\n- Slows the Welcome and All Set shimmer and respects reduced motion.\n- The default phone menu is Home, Live TV, Shows, Movies, Sports and More. Existing custom layouts are preserved.\n\nTested on phone and TV emulators with synthetic guide data."
+  "notes": "StreamMate 0.11.0 (463509)\n\nFixes a Home favorite poster returning to loading after its current airing changes. Tiles can recover without opening the stream picker. Poster requests and cached images now distinguish sources and editions, including listings that reuse an image URL.\n\nVerified on an Android phone emulator with synthetic listings and a configured upgrade from 463439."
 }
