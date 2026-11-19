@@ -1,8 +1,8 @@
 {
-  "versionCode": 462079,
+  "versionCode": 462304,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462079/streammate-462079.apk",
-  "sha256": "22f97b4132015cd4aab8137b7cbfd83e7493a529ca22a4ce171b5433de143f43",
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462304/streammate-462304.apk",
+  "sha256": "4c89a6d08f5f79672ecea86ddf21b3345821cb5a1ef96e968fe2a05847af8f8a",
   "size": 17447482,
-  "notes": "Reopen onboarding from Settings > General to edit providers, movie and show interests, sports interests and followed teams. Home favorite posters show a single-line title and airtime. Open the stream picker for additional airings."
+  "notes": "Onboarding now shows the StreamMate ribbon and a Home preview. Use one set of movie and show interests or choose separate lists. Existing choices are preserved.\n\nHome, Movies and Shows use single-line poster captions. Long titles scroll twice with pauses, then return to the beginning. Short titles and captions with reduced motion stay still.\n\nValidated on phone and TV emulators with synthetic listings."
 }
