@@ -1,8 +1,8 @@
 {
-  "versionCode": 462304,
+  "versionCode": 462680,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462304/streammate-462304.apk",
-  "sha256": "4c89a6d08f5f79672ecea86ddf21b3345821cb5a1ef96e968fe2a05847af8f8a",
-  "size": 17447482,
-  "notes": "Onboarding now shows the StreamMate ribbon and a Home preview. Use one set of movie and show interests or choose separate lists. Existing choices are preserved.\n\nHome, Movies and Shows use single-line poster captions. Long titles scroll twice with pauses, then return to the beginning. Short titles and captions with reduced motion stay still.\n\nValidated on phone and TV emulators with synthetic listings."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-462680/streammate-462680.apk",
+  "sha256": "b0b8af7407655b38bcc195a6044d7b9305fb5b1e718a8c209a88b8d47f94084b",
+  "size": 17463866,
+  "notes": "Welcome, Sources, Movies & Shows, Your Sports and Done now guide you through setup. Replay setup in Settings to edit your choices. Long pages let you scroll through the remaining options before continuing.\n\nSports interests group club and national competitions, and a local sample score card previews what following a team looks like. The preview respects reduced motion.\n\nHome, Movies and Shows keep an existing portrait when an artwork refresh returns only a landscape backdrop. A newly available portrait can then replace the fallback."
 }
