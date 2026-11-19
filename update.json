@@ -1,8 +1,8 @@
 {
-  "versionCode": 463509,
+  "versionCode": 463550,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463509/streammate-463509.apk",
-  "sha256": "d2c93eb99dcf235587d2b96fdf22fa594847a1f9583a851a298c150997ac927b",
-  "size": 17496634,
-  "notes": "StreamMate 0.11.0 (463509)\n\nFixes a Home favorite poster returning to loading after its current airing changes. Tiles can recover without opening the stream picker. Poster requests and cached images now distinguish sources and editions, including listings that reuse an image URL.\n\nVerified on an Android phone emulator with synthetic listings and a configured upgrade from 463439."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463550/streammate-463550.apk",
+  "sha256": "1dc10b225517ff48d942270adf299f5fe7737d46b63577848f72d499079e6898",
+  "size": 17513018,
+  "notes": "Featured on Home, Movies and Shows now gives matching titles a boost using your saved genres and topics. Other eligible titles stay available.\n\nSports Live Scores and Events now open with your selected leagues and followed teams. Choose All Leagues to see the wider scoreboard. The upcoming carousel starts with the earliest game and remembers your selection during a refresh. Basketball and Soccer include a National Teams picker, with separate men's and women's Olympic basketball teams. Boxing listings show matchup details when supplied by the broadcaster."
 }
