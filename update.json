@@ -1,8 +1,8 @@
 {
-  "versionCode": 463600,
+  "versionCode": 463720,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463600/streammate-463600.apk",
-  "sha256": "2c02d3a40c9c30477481518b33c0d494addaed62e2ac7087396aabf654ed9c1c",
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463720/streammate-463720.apk",
+  "sha256": "0d0f70cdba50a2557c41cca96ad0778a25a5f602bb97995724a85edae84ccbce",
   "size": 17513018,
-  "notes": "Choose My leagues & teams or All leagues in Sports > Personalize. The scores and events filter works as before, with more room on the main Sports page.\n\nTeam logos now outline inner openings where needed. Boxing listings use available guide subtitles and show a glove icon, including when the broadcaster supplies no matchup. Home Featured banners now display the correct separators between show type, year and airtime."
+  "notes": "Sports onboarding now steps back through teams, leagues and sports. Continue opens Sports Interests, where Skip and Continue retain your picks. National teams show their sport, and the artwork retry message displays correctly.\n\nWide windows on tablets and unfolded phones get a centered navigation rail, smaller posters and a better view of banner art. Programme details appear beside the player. Live keeps a compact preview alongside the guide. Sports keeps your selected upcoming game through resizing and opens on the earliest game on a fresh visit. Tested on Android emulators with resized windows and Android TV remote navigation."
 }
