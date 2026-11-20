@@ -1,14 +1,14 @@
 {
-  "versionCode": 463933,
-  "versionName": "0.11.0",
-  "apk_sha256": "d976e62b1fdf26b26a57da4d06e638f8194eec7a07d6e21c63e0543a96217bf7",
+  "versionCode": 464588,
+  "versionName": "0.12.0",
+  "apk_sha256": "5f3a106c8059b9f71ce1be0ac5e99d798d44853a36c59a2b7f980251853185be",
   "signing_certificate_sha256": "7b041826d0e492aad30858855df2fef1dc210ee17b7402bcc4cf4b2b8375baf3",
-  "tests": 238,
+  "tests": 241,
   "test_skipped": 1,
   "test_failures": 0,
   "lint_errors": 0,
   "lint_warnings": 66,
-  "sourceCommit": "ad75234c95b2b8638802e46acbd92b5640259738",
-  "sourceProvenance": "Retrospectively pinned from the verified release snapshot",
-  "release": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/tag/v0.11.0-463933"
+  "sourceCommit": "19366524232af0b115b5eb3c82915f0afb2d5c54",
+  "sourceProvenance": "Recorded at build time and verified against the signed APK",
+  "release": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/tag/v0.12.0-464588"
 }
