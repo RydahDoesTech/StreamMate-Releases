@@ -1,8 +1,8 @@
 {
-  "versionCode": 463720,
+  "versionCode": 463755,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463720/streammate-463720.apk",
-  "sha256": "0d0f70cdba50a2557c41cca96ad0778a25a5f602bb97995724a85edae84ccbce",
-  "size": 17513018,
-  "notes": "Sports onboarding now steps back through teams, leagues and sports. Continue opens Sports Interests, where Skip and Continue retain your picks. National teams show their sport, and the artwork retry message displays correctly.\n\nWide windows on tablets and unfolded phones get a centered navigation rail, smaller posters and a better view of banner art. Programme details appear beside the player. Live keeps a compact preview alongside the guide. Sports keeps your selected upcoming game through resizing and opens on the earliest game on a fresh visit. Tested on Android emulators with resized windows and Android TV remote navigation."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463755/streammate-463755.apk",
+  "sha256": "5b87a475253e5508c0c66870174f93047ce767bd4e99acf67fd27461d646ac54",
+  "size": 17562170,
+  "notes": "Settings > General now lets you create a password-encrypted .streammate backup of providers, favorites, followed teams, interests and portable preferences. Restore previews the contents and preserves existing provider logins. Keep the backup password somewhere safe; it cannot be recovered. Android TV file transfers require a compatible document picker.\n\nOptionally add your own TMDB API key during onboarding or in Settings > Providers for additional movie and show artwork. The key stays on the device and is excluded from portable backups. IPTV and the guide work without it."
 }
