@@ -1,9 +1,9 @@
 {
-    "versionCode":  464588,
-    "versionName":  "0.12.0",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.0-464588/streammate-464588.apk",
-    "sha256":  "5f3a106c8059b9f71ce1be0ac5e99d798d44853a36c59a2b7f980251853185be",
-    "size":  17595477,
-    "notes":  "- The Live guide keeps the time you were browsing when you unfold or rotate the device. In-progress programme titles remain visible, and the filter shows your selected group.\n- On wide touch screens, the player and programme details align side by side. Fullscreen is available from the video controls, and the Settings drawer dims the full backdrop.\n- Live scores and followed events use centered carousels with fading edges on wide screens.\n- Guide reminder synchronization retries interrupted database work. Picture-in-picture follows the active video surface when returning to the guide.\n\n- Release builds now record their source commit.",
-    "sourceCommit":  "19366524232af0b115b5eb3c82915f0afb2d5c54"
+    "versionCode":  465060,
+    "versionName":  "0.12.1",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-465060/streammate-465060.apk",
+    "sha256":  "4892e1919b2360f65799090fc8cc2b810fcfc68e15a326f4bd50c6902c5fa8b0",
+    "size":  17595541,
+    "notes":  "Movie and show artwork now uses StreamMate’s TMDB relay. A saved personal key can retry an individual request when the relay is unavailable.\r\n\r\nThe mini-player groups playback controls and labels the current programme. Folded and wide layouts retain access to fullscreen playback.",
+    "sourceCommit":  "153e8c0e8d77f7370cf9bff6234a4cc6b69f6f01"
 }
