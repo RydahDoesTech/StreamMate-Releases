@@ -1,8 +1,9 @@
 {
-  "versionCode": 463933,
-  "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463933/streammate-463933.apk",
-  "sha256": "d976e62b1fdf26b26a57da4d06e638f8194eec7a07d6e21c63e0543a96217bf7",
-  "size": 17594938,
-  "notes": "Wide touch layouts now use your phone’s navigation order in a centered side rail. Search, the guide, Settings and onboarding leave room for Android’s system bars. The wide Live guide pairs compact video with programme details and puts playback controls on the video. The Settings drawer uses a lighter-weight tinted surface.\n\nSettings > General > Backup & Restore can save settings and favorites without a password. This readable file excludes provider logins, private addresses and service keys. Choose the password-protected transfer to include providers. Existing encrypted backups remain supported.\n\nWelcome now offers Restore from backup. Editable onboarding retains its step when the window resizes, and the optional personal TMDB key control is on Movies & Shows."
+    "versionCode":  464588,
+    "versionName":  "0.12.0",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.0-464588/streammate-464588.apk",
+    "sha256":  "5f3a106c8059b9f71ce1be0ac5e99d798d44853a36c59a2b7f980251853185be",
+    "size":  17595477,
+    "notes":  "- The Live guide keeps the time you were browsing when you unfold or rotate the device. In-progress programme titles remain visible, and the filter shows your selected group.\n- On wide touch screens, the player and programme details align side by side. Fullscreen is available from the video controls, and the Settings drawer dims the full backdrop.\n- Live scores and followed events use centered carousels with fading edges on wide screens.\n- Guide reminder synchronization retries interrupted database work. Picture-in-picture follows the active video surface when returning to the guide.\n\n- Release builds now record their source commit.",
+    "sourceCommit":  "19366524232af0b115b5eb3c82915f0afb2d5c54"
 }
