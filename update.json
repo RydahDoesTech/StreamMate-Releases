@@ -1,8 +1,8 @@
 {
-  "versionCode": 463755,
+  "versionCode": 463933,
   "versionName": "0.11.0",
-  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463755/streammate-463755.apk",
-  "sha256": "5b87a475253e5508c0c66870174f93047ce767bd4e99acf67fd27461d646ac54",
-  "size": 17562170,
-  "notes": "Settings > General now lets you create a password-encrypted .streammate backup of providers, favorites, followed teams, interests and portable preferences. Restore previews the contents and preserves existing provider logins. Keep the backup password somewhere safe; it cannot be recovered. Android TV file transfers require a compatible document picker.\n\nOptionally add your own TMDB API key during onboarding or in Settings > Providers for additional movie and show artwork. The key stays on the device and is excluded from portable backups. IPTV and the guide work without it."
+  "apk": "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.11.0-463933/streammate-463933.apk",
+  "sha256": "d976e62b1fdf26b26a57da4d06e638f8194eec7a07d6e21c63e0543a96217bf7",
+  "size": 17594938,
+  "notes": "Wide touch layouts now use your phone\u00e2\u20ac\u2122s navigation order in a centered side rail. Search, the guide, Settings and onboarding leave room for Android\u00e2\u20ac\u2122s system bars. The wide Live guide pairs compact video with programme details and puts playback controls on the video. The Settings drawer uses a lighter-weight tinted surface.\n\nSettings > General > Backup & Restore can save settings and favorites without a password. This readable file excludes provider logins, private addresses and service keys. Choose the password-protected transfer to include providers. Existing encrypted backups remain supported.\n\nWelcome now offers Restore from backup. Editable onboarding retains its step when the window resizes, and the optional personal TMDB key control is on Movies & Shows."
 }
