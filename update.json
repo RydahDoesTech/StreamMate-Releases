@@ -1,9 +1,9 @@
 {
-    "versionCode":  465060,
+    "versionCode":  466380,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-465060/streammate-465060.apk",
-    "sha256":  "4892e1919b2360f65799090fc8cc2b810fcfc68e15a326f4bd50c6902c5fa8b0",
-    "size":  17595541,
-    "notes":  "Movie and show artwork now uses StreamMate’s TMDB relay. A saved personal key can retry an individual request when the relay is unavailable.\r\n\r\nThe mini-player groups playback controls and labels the current programme. Folded and wide layouts retain access to fullscreen playback.",
-    "sourceCommit":  "153e8c0e8d77f7370cf9bff6234a4cc6b69f6f01"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-466380/streammate-466380.apk",
+    "sha256":  "e75d8e232b3257fc4456dc90787833d3e36c854b2a0487b90acab0de609c9ce9",
+    "size":  17611925,
+    "notes":  "On a phone, the Live page keeps a small picture with what’s on beside it, and its buttons line up with the picture. Tap a guide listing once to see its details, then again to watch. Close the details to return to what’s playing.\n\nHome, Shows and Movies banners show each title once. Ways to watch lists every live airing and on-demand copy, and remakes stay separate.",
+    "sourceCommit":  "b37c9295d5adde02f4e263c993623d4b5f985291"
 }
