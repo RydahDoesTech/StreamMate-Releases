@@ -1,9 +1,9 @@
 {
-    "versionCode":  466902,
+    "versionCode":  467042,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-466902/streammate-466902.apk",
-    "sha256":  "f10381896a83bbfec1202ab2cfba6654eb701ecc1c1aa79117e9cbaba688c651",
-    "size":  17694493,
-    "notes":  "Movie and show pages look like Plex\u0027s: the backdrop with the title over it, Play or Resume with the time left, play from the start, favorites, mark as watched, the story, cast and crew with photos, and episodes by season with pictures.\n\nPick the audio language, subtitles and quality on a Plex title\u0027s page or while it plays (Audio \u0026 subtitles). Lower qualities are converted by your Plex server. Your picks carry on to the next episode.\n\nYour Plex server\u0027s dashboard (and Tautulli) now shows what StreamMate is playing.\n\nA movie on now in the guide and the same movie on demand show as one title, offering both ways to watch.\n\nEmby and Jellyfin are marked Coming soon while they get tested; Plex is ready.",
-    "sourceCommit":  "e8ac7c3b07af3f0076a4458888cbc9a6fe46b1ce"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467042/streammate-467042.apk",
+    "sha256":  "e9d770ec36d719050516d1c765a7b2dca46eb2e1a87f3d5911e117d37d68b774",
+    "size":  17711113,
+    "notes":  "Movies and Shows now sort large catalogues in the background, removing the long pauses measured when those pages opened and each time their featured banner moved on.\n\nOn Movies and Shows, posters and banners are tagged LIVE or COMING UP, ON DEMAND, or both. Library posters on Home are tagged ON DEMAND; Home\u0027s live cards don\u0027t check for on-demand copies yet.\n\nIn Ways to watch, tap anywhere on a row to pick it.\n\nA show\u0027s Play button starts at season 1 rather than its specials, unless you\u0027re partway through a special. Specials are listed after the seasons.",
+    "sourceCommit":  "08ff9957fda11db661548dd0b5cba4019fd80951"
 }
