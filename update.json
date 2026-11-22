@@ -1,9 +1,9 @@
 {
-    "versionCode":  467042,
+    "versionCode":  467706,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467042/streammate-467042.apk",
-    "sha256":  "e9d770ec36d719050516d1c765a7b2dca46eb2e1a87f3d5911e117d37d68b774",
-    "size":  17711113,
-    "notes":  "Movies and Shows now sort large catalogues in the background, removing the long pauses measured when those pages opened and each time their featured banner moved on.\n\nOn Movies and Shows, posters and banners are tagged LIVE or COMING UP, ON DEMAND, or both. Library posters on Home are tagged ON DEMAND; Home\u0027s live cards don\u0027t check for on-demand copies yet.\n\nIn Ways to watch, tap anywhere on a row to pick it.\n\nA show\u0027s Play button starts at season 1 rather than its specials, unless you\u0027re partway through a special. Specials are listed after the seasons.",
-    "sourceCommit":  "08ff9957fda11db661548dd0b5cba4019fd80951"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467706/streammate-467706.apk",
+    "sha256":  "177775453b4e972fe500ce20c878ad229a149aca8c2e2fc8e73797fbb2bb8d83",
+    "size":  17776949,
+    "notes":  "Continue watching on Home follows your Plex profile\u0027s own Continue Watching, and resuming uses whichever is newer: where you stopped in a Plex app or in StreamMate.\n\nLive movies and shows on Home, Movies and Shows find their on-demand copies, including older titles in large libraries. Ways to watch shows how far you got and offers a movie that\u0027s already underway on live TV from the beginning.\n\nTo skip Ways to watch, choose Open on demand under Settings \u003e Interests \u0026 discovery. Press and hold a poster to pick live instead.\n\nOn-demand tags say VOD. A poster with several ways to watch gets a pill in their colors: red for live, your accent color for coming up, teal for VOD.\n\nMovie and show pages show the title\u0027s logo, take their background color from the art, and fade the art in below the status bar.\n\nWith a parental PIN set, movies, episodes, catch-up and recordings that are locked or blocked for a child profile ask for it. Search leaves out movies and shows in hidden and locked categories. Locks are still picked from channel groups, so Plex libraries can\u0027t be locked yet.\n\nCategory buttons in Movies and Shows appear only when there\u0027s more than one category.",
+    "sourceCommit":  "006495e88a74985ea16a47f40d50b9362f655e3a"
 }
