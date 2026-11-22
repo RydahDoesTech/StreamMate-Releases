@@ -1,9 +1,9 @@
 {
-    "versionCode":  466708,
+    "versionCode":  466902,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-466708/streammate-466708.apk",
-    "sha256":  "94661c8e884c26e33b2727760332773c7a867a40b38c66d97bc10234e999b90d",
-    "size":  17628657,
-    "notes":  "Plex sign-in now finishes: pick who\u0027s watching from your Plex Home profiles, then your server, and its movies and shows appear in Movies and Shows. Change profile later from the provider\u0027s Edit page without a new code.\n\nWhen a phone can\u0027t play a Plex video\u0027s format, your Plex server converts it and playback continues. Videos that can\u0027t play say why instead of showing a black screen.",
-    "sourceCommit":  "22bc509688808965271b9a51dd2ecf7ca33f7a8e"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-466902/streammate-466902.apk",
+    "sha256":  "f10381896a83bbfec1202ab2cfba6654eb701ecc1c1aa79117e9cbaba688c651",
+    "size":  17694493,
+    "notes":  "Movie and show pages look like Plex\u0027s: the backdrop with the title over it, Play or Resume with the time left, play from the start, favorites, mark as watched, the story, cast and crew with photos, and episodes by season with pictures.\n\nPick the audio language, subtitles and quality on a Plex title\u0027s page or while it plays (Audio \u0026 subtitles). Lower qualities are converted by your Plex server. Your picks carry on to the next episode.\n\nYour Plex server\u0027s dashboard (and Tautulli) now shows what StreamMate is playing.\n\nA movie on now in the guide and the same movie on demand show as one title, offering both ways to watch.\n\nEmby and Jellyfin are marked Coming soon while they get tested; Plex is ready.",
+    "sourceCommit":  "e8ac7c3b07af3f0076a4458888cbc9a6fe46b1ce"
 }
