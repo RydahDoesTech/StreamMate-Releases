@@ -1,9 +1,9 @@
 {
-    "versionCode":  466617,
+    "versionCode":  466708,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-466617/streammate-466617.apk",
-    "sha256":  "1d8ce70563572052f0d3ca926d6ab418c9655dade749e38c71cb801da90a3a31",
-    "size":  17612145,
-    "notes":  "Turning the phone sideways opens the playing channel full screen from Movies, Shows and Sports too, as it already did from Home and Live.\n\nWhat\u0027s new after an update now lists that build\u0027s changes instead of an empty list.",
-    "sourceCommit":  "6aed3963b45b87c4f84766357513c239a5b9ffbc"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-466708/streammate-466708.apk",
+    "sha256":  "94661c8e884c26e33b2727760332773c7a867a40b38c66d97bc10234e999b90d",
+    "size":  17628657,
+    "notes":  "Plex sign-in now finishes: pick who\u0027s watching from your Plex Home profiles, then your server, and its movies and shows appear in Movies and Shows. Change profile later from the provider\u0027s Edit page without a new code.\n\nWhen a phone can\u0027t play a Plex video\u0027s format, your Plex server converts it and playback continues. Videos that can\u0027t play say why instead of showing a black screen.",
+    "sourceCommit":  "22bc509688808965271b9a51dd2ecf7ca33f7a8e"
 }
