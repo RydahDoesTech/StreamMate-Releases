@@ -1,9 +1,9 @@
 {
-    "versionCode":  467919,
+    "versionCode":  467946,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467919/streammate-467919.apk",
-    "sha256":  "f8b6bde002cb2d6fa29650f1d6ab99017f228e92da761f52162df743819712bb",
-    "size":  17842669,
-    "notes":  "Fixes for two TV remote problems from the previous version.\n\nYou can now add or edit a provider with only a remote: Up and Down move out of text fields, and the field you\u0027re typing in stays above the TV keyboard.\n\nOn Home, Down gets past Now playing even when there\u0027s no featured banner below it.\n\nTested on an Android TV emulator, not yet on a real TV or Fire TV.",
-    "sourceCommit":  "95041bbab2613c3fc64e71145e01d1cb7ab8af29"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467946/streammate-467946.apk",
+    "sha256":  "40a53c56dd26b34f4affb6e8de62a20a55c9fae12c85c428ed18a275e18b2ee6",
+    "size":  17859177,
+    "notes":  "TV layout tuned after testing on a real TV.\n\nHome, Sports, Recordings and On TV \u0026 for you are smaller, so more fits on screen, and score cards are narrower.\n\nThe search bar at the top is gone on TV; Search is in the menu. The pull-to-refresh circle no longer shows while scrolling.\n\nWhat\u0027s playing has its details in a box beside the picture, with Pause and Stop. Press OK on the picture for full screen. On Home the banner stays at the top.\n\nMovies and Shows open on On TV \u0026 for you and keep live TV playing, with the picture on the page.\n\nTested on an Android TV emulator, not yet on a real TV or box.",
+    "sourceCommit":  "17d5b355b62b10aef493b926661106110a14dffb"
 }
