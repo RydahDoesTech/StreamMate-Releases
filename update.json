@@ -1,9 +1,9 @@
 {
-    "versionCode":  467706,
+    "versionCode":  467736,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467706/streammate-467706.apk",
-    "sha256":  "177775453b4e972fe500ce20c878ad229a149aca8c2e2fc8e73797fbb2bb8d83",
-    "size":  17776949,
-    "notes":  "Continue watching on Home follows your Plex profile\u0027s own Continue Watching, and resuming uses whichever is newer: where you stopped in a Plex app or in StreamMate.\n\nLive movies and shows on Home, Movies and Shows find their on-demand copies, including older titles in large libraries. Ways to watch shows how far you got and offers a movie that\u0027s already underway on live TV from the beginning.\n\nTo skip Ways to watch, choose Open on demand under Settings \u003e Interests \u0026 discovery. Press and hold a poster to pick live instead.\n\nOn-demand tags say VOD. A poster with several ways to watch gets a pill in their colors: red for live, your accent color for coming up, teal for VOD.\n\nMovie and show pages show the title\u0027s logo, take their background color from the art, and fade the art in below the status bar.\n\nWith a parental PIN set, movies, episodes, catch-up and recordings that are locked or blocked for a child profile ask for it. Search leaves out movies and shows in hidden and locked categories. Locks are still picked from channel groups, so Plex libraries can\u0027t be locked yet.\n\nCategory buttons in Movies and Shows appear only when there\u0027s more than one category.",
-    "sourceCommit":  "006495e88a74985ea16a47f40d50b9362f655e3a"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467736/streammate-467736.apk",
+    "sha256":  "a9ce74c7fa98310e3f3043d0562506ff7d64fc5f570776beda8a70a3504c5ca7",
+    "size":  17826225,
+    "notes":  "New TV layout, modeled on TVlok and TiviMate. The phone and tablet layouts stay as they were.\n\nLive TV fills the screen, with the preview and program details above the guide. OK plays in the preview, OK again goes full screen and holding OK opens options. Hold Left for earlier programs. Number keys jump to a channel in the category you\u0027re viewing.\n\nLeft opens categories, then playlists if you have more than one, then the menu. Back opens the menu. This replaces the icon rail, the Guide/Channels switch and the Source button.\n\nMovies and Shows on TV open on All, with the selected title\u0027s details above rows by category. The previous page is now On TV \u0026 for you. Live TV pauses while you\u0027re in them.\n\nIf you saved the 9 or 12 row guide on TV, it\u0027s kept, and those layouts have no preview.\n\nKnown TV issues, also in the previous version: adding or editing a provider with only a remote can get stuck in the text fields, and on Home, Down can stop at Now playing when there\u0027s no featured banner below it.\n\nTested on Android TV and foldable emulators, not yet on a real TV or Fire TV.",
+    "sourceCommit":  "2c43d9d3a8726843c2010a59b820873f047bc967"
 }
