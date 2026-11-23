@@ -1,9 +1,9 @@
 {
-    "versionCode":  468854,
+    "versionCode":  468988,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-468854/streammate-468854.apk",
-    "sha256":  "b7243e26305f80ca0c1b7021c15210e2d9c87e0c6f043ccdaae282770cddd5b8",
-    "size":  17925069,
-    "notes":  "A bigger TV update, shaped by testing on a real TV.\n\nHome looks more like the Google TV home screen: the featured title fills the top with its art fading into the page and keeps turning while highlighted. Favorites and Recently watched are rows of tiles showing what\u0027s on. Hold Left on the featured banner for the menu.\n\nSettings \u003e Remote control works like TiviMate\u0027s: a TV guide list and a Player list, a press and a hold for each button, catch-up seeking options and Restore to defaults. In full screen, Up and Down change channel, Left opens the guide, hold Left shows the controls, and Pg+ or Pg- shows another channel\u0027s info without switching. In the guide, hold Back returns to full screen on Android 12 and earlier.\n\nHold OK on a Live TV group to rename, hide, lock or rearrange groups.\n\nMovies and Shows on TV are one page like Home, with Continue watching on it. Sports buttons are tidier, the menu is see-through, and Live TV has background choices in Settings \u003e Appearance instead of the channel\u0027s logo.\n\nTested on an Android TV emulator, not yet on a real TV.",
-    "sourceCommit":  "3554bc430b6835939c9ea035e19dbce78d178319"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-468988/streammate-468988.apk",
+    "sha256":  "de21e9fc08200dd62c631d882123a82198e3ebeabc95306d6753bee35e886551",
+    "size":  17986345,
+    "notes":  "TV improvements from testing on a real TV.\n\nSports is laid out in rows of tiles like the Google TV home screen: your teams\u0027 games, live scores and games from your interests each show both teams, the time or score, and where to watch.\n\nThe TV menu shows StreamMate\u0027s new logo. Home\u0027s channel tiles show artwork for the show that\u0027s on when the guide has none.\n\nIn the TV guide, Stop now stops what\u0027s playing and Red records the highlighted programme. Hold Back returns to full screen on Android 12 and earlier.\n\nAn update offered while Settings is open can now be installed with the remote.",
+    "sourceCommit":  "70640f2ce5428e3f3f888dbbf21e6033317cd63a"
 }
