@@ -1,9 +1,9 @@
 {
-    "versionCode":  467946,
+    "versionCode":  468854,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-467946/streammate-467946.apk",
-    "sha256":  "40a53c56dd26b34f4affb6e8de62a20a55c9fae12c85c428ed18a275e18b2ee6",
-    "size":  17859177,
-    "notes":  "TV layout tuned after testing on a real TV.\n\nHome, Sports, Recordings and On TV \u0026 for you are smaller, so more fits on screen, and score cards are narrower.\n\nThe search bar at the top is gone on TV; Search is in the menu. The pull-to-refresh circle no longer shows while scrolling.\n\nWhat\u0027s playing has its details in a box beside the picture, with Pause and Stop. Press OK on the picture for full screen. On Home the banner stays at the top.\n\nMovies and Shows open on On TV \u0026 for you and keep live TV playing, with the picture on the page.\n\nTested on an Android TV emulator, not yet on a real TV or box.",
-    "sourceCommit":  "17d5b355b62b10aef493b926661106110a14dffb"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-468854/streammate-468854.apk",
+    "sha256":  "b7243e26305f80ca0c1b7021c15210e2d9c87e0c6f043ccdaae282770cddd5b8",
+    "size":  17925069,
+    "notes":  "A bigger TV update, shaped by testing on a real TV.\n\nHome looks more like the Google TV home screen: the featured title fills the top with its art fading into the page and keeps turning while highlighted. Favorites and Recently watched are rows of tiles showing what\u0027s on. Hold Left on the featured banner for the menu.\n\nSettings \u003e Remote control works like TiviMate\u0027s: a TV guide list and a Player list, a press and a hold for each button, catch-up seeking options and Restore to defaults. In full screen, Up and Down change channel, Left opens the guide, hold Left shows the controls, and Pg+ or Pg- shows another channel\u0027s info without switching. In the guide, hold Back returns to full screen on Android 12 and earlier.\n\nHold OK on a Live TV group to rename, hide, lock or rearrange groups.\n\nMovies and Shows on TV are one page like Home, with Continue watching on it. Sports buttons are tidier, the menu is see-through, and Live TV has background choices in Settings \u003e Appearance instead of the channel\u0027s logo.\n\nTested on an Android TV emulator, not yet on a real TV.",
+    "sourceCommit":  "3554bc430b6835939c9ea035e19dbce78d178319"
 }
