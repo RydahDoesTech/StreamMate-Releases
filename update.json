@@ -1,9 +1,9 @@
 {
-    "versionCode":  468988,
+    "versionCode":  470451,
     "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-468988/streammate-468988.apk",
-    "sha256":  "de21e9fc08200dd62c631d882123a82198e3ebeabc95306d6753bee35e886551",
-    "size":  17986345,
-    "notes":  "TV improvements from testing on a real TV.\n\nSports is laid out in rows of tiles like the Google TV home screen: your teams\u0027 games, live scores and games from your interests each show both teams, the time or score, and where to watch.\n\nThe TV menu shows StreamMate\u0027s new logo. Home\u0027s channel tiles show artwork for the show that\u0027s on when the guide has none.\n\nIn the TV guide, Stop now stops what\u0027s playing and Red records the highlighted programme. Hold Back returns to full screen on Android 12 and earlier.\n\nAn update offered while Settings is open can now be installed with the remote.",
-    "sourceCommit":  "70640f2ce5428e3f3f888dbbf21e6033317cd63a"
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-470451/streammate-470451.apk",
+    "sha256":  "d71b4b3d2c51ab6e92040b53e1a0e26cd53c7dca5ba9a61e57f946803a2b2034",
+    "size":  18002993,
+    "notes":  "Faster start: the featured banner shows much sooner after the first launch, because StreamMate keeps what it learns about your guide between launches.\n\nUp next can appear 30 seconds to 5 minutes before a show ends (Settings \u003e Playback and audio), counts the last minute down in seconds, and OK dismisses it.\n\nTablets and unfolded foldables use the TV\u0027s big-screen layout: the featured title at the top of Home, Movies and Shows, what\u0027s playing under it, and rows of tiles.\n\nOn TVs, holding a button no longer also presses it when you let go, Recordings\u0027 buttons can be reached with the remote, followed games on Home use the smaller tiles, and Backspace and Green in full screen show your groups over the video.",
+    "sourceCommit":  "b6efa1b1e978f9aa25fc400bba170fe655961dc3"
 }
