@@ -1,9 +1,9 @@
 {
-    "versionCode":  470451,
-    "versionName":  "0.12.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.1-470451/streammate-470451.apk",
-    "sha256":  "d71b4b3d2c51ab6e92040b53e1a0e26cd53c7dca5ba9a61e57f946803a2b2034",
-    "size":  18002993,
-    "notes":  "Faster start: the featured banner shows much sooner after the first launch, because StreamMate keeps what it learns about your guide between launches.\n\nUp next can appear 30 seconds to 5 minutes before a show ends (Settings \u003e Playback and audio), counts the last minute down in seconds, and OK dismisses it.\n\nTablets and unfolded foldables use the TV\u0027s big-screen layout: the featured title at the top of Home, Movies and Shows, what\u0027s playing under it, and rows of tiles.\n\nOn TVs, holding a button no longer also presses it when you let go, Recordings\u0027 buttons can be reached with the remote, followed games on Home use the smaller tiles, and Backspace and Green in full screen show your groups over the video.",
-    "sourceCommit":  "b6efa1b1e978f9aa25fc400bba170fe655961dc3"
+    "versionCode":  470599,
+    "versionName":  "0.12.2",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.2-470599/streammate-470599.apk",
+    "sha256":  "c9d54f7fe370854ab5a3aeed52cc41743c7e11d44c4caaa5693c538f221b601e",
+    "size":  18003213,
+    "notes":  "Phones, tablets and foldables: a new setting, Double tap for full screen (Settings \u003e Playback and audio), chooses whether one tap or two on the small picture goes full screen. One tap is the default.\n\nTablets and unfolded foldables: Pause, Stop and Full screen sit together in one pill inside the Now playing box on every page (Home, Movies, Shows, Live TV and Sports) instead of over the picture, and Live TV labels what\u0027s playing as Now playing. The featured art slowly zooms, as on phones, and fades out on both sides, and Home\u0027s search bar scrolls away as you scroll.\n\nOn tablets and TVs, rows of game and team tiles fade out at an edge when there\u0027s more to scroll to, instead of being cut off.",
+    "sourceCommit":  "ecc7161f5d34b34948fdda1907cb8621c3e1684f"
 }
