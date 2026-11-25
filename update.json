@@ -1,9 +1,9 @@
 {
-    "versionCode":  471069,
-    "versionName":  "0.12.5",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.5-471069/streammate-471069.apk",
-    "sha256":  "bd485e6446e9064ac03dc02d38826ba718b4a2aa7014db84e568df8b63828326",
-    "size":  18052941,
-    "notes":  "Home\u0027s banner shows straight away when you open the app: it starts with the banners from last time (only showings that haven\u0027t ended, on channels you haven\u0027t hidden or locked) while the latest ones are worked out, then moves on to those.\n\nTV: a selected poster is outlined on the poster itself and lifts slightly; its title below stays plain text instead of being boxed in with it.",
-    "sourceCommit":  "3ba9cf41132932b15bb9049c89b19d15e9a787d3"
+    "versionCode":  471101,
+    "versionName":  "0.12.6",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.6-471101/streammate-471101.apk",
+    "sha256":  "081cb2f80838c7eed363e423ecbeea5b2618bf721b99f94e3d608b6020a1d9de",
+    "size":  18053165,
+    "notes":  "Settings are regrouped: General, Watching, Sources and discovery, Channels, Family and privacy, and App. Backup and restore has its own page, with Create and Restore joined in one button. Confirm before exiting moves to General. Remote control settings show on TV only. The More menu\u0027s description is plainer.\n\nSelection outlines follow the shape of what\u0027s selected: settings rows and joined buttons no longer show square corners, and text fields no longer look double-outlined.\n\nWhen a guide refresh doesn\u0027t work, the message says so in plain words and that the last guide is still in use.",
+    "sourceCommit":  "eeaa31994e734116dfb812200e30324ecfcf0cdc"
 }
