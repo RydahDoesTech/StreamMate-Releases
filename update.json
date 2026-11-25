@@ -1,9 +1,9 @@
 {
-    "versionCode":  471400,
-    "versionName":  "0.12.9",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.9-471400/streammate-471400.apk",
-    "sha256":  "db6d23ac80265ac2ad8d6c120525bb8824f9e096ec48e8ed2aad32df9ec91eef",
-    "size":  18070005,
-    "notes":  "Faster start-up, especially on TV. The guide work behind Home\u0027s banners and the Movies and Shows pages now remembers its answers and is shared across the processor\u0027s cores; on a Shield, the latest banners are ready in about 5 seconds instead of 12, and it no longer redoes that work every few seconds after opening. Android now gets a list of StreamMate\u0027s own code to optimise when it\u0027s installed, so the first launch after an update isn\u0027t held up either.\n\nHome keeps later showings in the banners it remembers, so after the TV has been off for a while there are still banners to show straight away.",
-    "sourceCommit":  "c3ea8f319ca6e93170f914a839361036bc886e30"
+    "versionCode":  472275,
+    "versionName":  "0.13.0",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.0-472275/streammate-472275.apk",
+    "sha256":  "9682dc41d4dd7e61d972e899bc86cbc42404f67a159ba889bfb63eb73db6dd29",
+    "size":  18086941,
+    "notes":  "Trakt works with the new kind of Trakt app, which has a client ID and no client secret. Settings \u003e Connections needs just the client ID. On a phone or tablet, Connect opens Trakt\u0027s sign-in in your browser and brings you back to StreamMate. On a TV, StreamMate shows a code to enter at trakt.tv/activate on your phone, as before; phones can use a code too.\n\nTrakt sign-in is kept safely: it\u0027s locked with this device\u0027s own key, renewed before it runs out, and Disconnect signs StreamMate out of Trakt too. Check connection confirms it\u0027s working. An existing Trakt connection keeps working; if Trakt has ended it, Settings says so and asks you to connect again.\n\nA movie or episode you watch to the end is added to your Trakt or Simkl history straight away. Since it keeps playing in the small picture afterwards, it used to wait until you pressed Stop.",
+    "sourceCommit":  "34d4927308c4b4a1dfeb27e7e78b609464f94ee4"
 }
