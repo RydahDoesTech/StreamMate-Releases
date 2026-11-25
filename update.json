@@ -1,9 +1,9 @@
 {
-    "versionCode":  471101,
-    "versionName":  "0.12.6",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.6-471101/streammate-471101.apk",
-    "sha256":  "081cb2f80838c7eed363e423ecbeea5b2618bf721b99f94e3d608b6020a1d9de",
-    "size":  18053165,
-    "notes":  "Settings are regrouped: General, Watching, Sources and discovery, Channels, Family and privacy, and App. Backup and restore has its own page, with Create and Restore joined in one button. Confirm before exiting moves to General. Remote control settings show on TV only. The More menu\u0027s description is plainer.\n\nSelection outlines follow the shape of what\u0027s selected: settings rows and joined buttons no longer show square corners, and text fields no longer look double-outlined.\n\nWhen a guide refresh doesn\u0027t work, the message says so in plain words and that the last guide is still in use.",
-    "sourceCommit":  "eeaa31994e734116dfb812200e30324ecfcf0cdc"
+    "versionCode":  471175,
+    "versionName":  "0.12.7",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.7-471175/streammate-471175.apk",
+    "sha256":  "8f358e7d7d4aed915d3cb725ecfe35beedf92b4c1a5eafecbeca83d8e1dbb97b",
+    "size":  18053313,
+    "notes":  "TV: when the info bar is up while you watch, Left and Right move along its buttons (Live, Pause, Stop, Last channel, the description and the rest) instead of running what those buttons are set to do in Remote control settings. Up and Down still change channel.\n\nTV: pressing Stop on the small picture at the top of a page with nothing else to select (such as an empty Recordings page) hands the remote to the menu, instead of leaving nothing selected.",
+    "sourceCommit":  "bf944c5b4d09f34d066d7a63d2d9b1fce4c3a853"
 }
