@@ -1,9 +1,9 @@
 {
-    "versionCode":  470792,
-    "versionName":  "0.12.3",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.3-470792/streammate-470792.apk",
-    "sha256":  "c7d7d5b77713ebc8b7df0e7f8af167946181362207389a3540356add80ef4a80",
-    "size":  18036253,
-    "notes":  "Movies and episodes keep playing in the small picture when you back out of full screen, as live TV does. On Home, Movies and Shows it sits under the banner with Pause, Stop and Full screen, and on Live TV, Sports and Search it sits at the top. Full screen picks up where it is instead of starting over, and Stop ends it.\r\n\r\nSubtitles and captions are now white text with a black outline and no box behind them. Settings \u003e Playback and audio \u003e Subtitles and captions changes the text size, colour, background, edge, font and position, with a preview, or follows Android\u0027s own caption style.\r\n\r\nPhones: the picture and Now playing sit under the banner on Home, Movies and Shows, as on tablets.\r\n\r\nSports: a followed team\u0027s next game is found even when ESPN\u0027s team schedule has already moved on to next season. Inter Miami\u0027s MLS playoff game on November 27 was missing, with February shown as the next game.",
-    "sourceCommit":  "215602b2806e99abf9e7d51142251b5ea88205ea"
+    "versionCode":  470916,
+    "versionName":  "0.12.4",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.4-470916/streammate-470916.apk",
+    "sha256":  "ee9abf49400199013f53b54900d4403689f4f003d322951eb58f046c4461c413",
+    "size":  18052785,
+    "notes":  "Tablets, foldables and TVs: Home\u0027s rows (Favorites, channel tiles and the movie and show rows) fade out at an edge when there\u0027s more to scroll to, as Sports does. Sports\u0027 game tiles tint each half with its team\u0027s colour, as on phones.\n\nThe More menu and other pop-up panels slide up from the bottom, follow your finger when you drag the handle or pull the list down from its top, and either slide away or spring back when you let go.",
+    "sourceCommit":  "7d92b1180004248256d3b786941601ebc73b3aed"
 }
