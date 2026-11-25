@@ -1,9 +1,9 @@
 {
-    "versionCode":  471207,
-    "versionName":  "0.12.8",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.8-471207/streammate-471207.apk",
-    "sha256":  "d455da92ecb4cf9e679e51fcefe4eda76baf150085cccbdfecc29ba4d2b40771",
-    "size":  18053397,
-    "notes":  "Phones and tablets: the big live score and event cards on Sports and Home tint each half with its team\u0027s colours, like the schedule cards. The event list rows tint top and bottom, with the teams in the order they\u0027re listed.",
-    "sourceCommit":  "87c1fa26b28c3b0c47d9ff2237fa458b833e8d28"
+    "versionCode":  471400,
+    "versionName":  "0.12.9",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.9-471400/streammate-471400.apk",
+    "sha256":  "db6d23ac80265ac2ad8d6c120525bb8824f9e096ec48e8ed2aad32df9ec91eef",
+    "size":  18070005,
+    "notes":  "Faster start-up, especially on TV. The guide work behind Home\u0027s banners and the Movies and Shows pages now remembers its answers and is shared across the processor\u0027s cores; on a Shield, the latest banners are ready in about 5 seconds instead of 12, and it no longer redoes that work every few seconds after opening. Android now gets a list of StreamMate\u0027s own code to optimise when it\u0027s installed, so the first launch after an update isn\u0027t held up either.\n\nHome keeps later showings in the banners it remembers, so after the TV has been off for a while there are still banners to show straight away.",
+    "sourceCommit":  "c3ea8f319ca6e93170f914a839361036bc886e30"
 }
