@@ -1,9 +1,9 @@
 {
-    "versionCode":  471175,
-    "versionName":  "0.12.7",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.7-471175/streammate-471175.apk",
-    "sha256":  "8f358e7d7d4aed915d3cb725ecfe35beedf92b4c1a5eafecbeca83d8e1dbb97b",
-    "size":  18053313,
-    "notes":  "TV: when the info bar is up while you watch, Left and Right move along its buttons (Live, Pause, Stop, Last channel, the description and the rest) instead of running what those buttons are set to do in Remote control settings. Up and Down still change channel.\n\nTV: pressing Stop on the small picture at the top of a page with nothing else to select (such as an empty Recordings page) hands the remote to the menu, instead of leaving nothing selected.",
-    "sourceCommit":  "bf944c5b4d09f34d066d7a63d2d9b1fce4c3a853"
+    "versionCode":  471207,
+    "versionName":  "0.12.8",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.12.8-471207/streammate-471207.apk",
+    "sha256":  "d455da92ecb4cf9e679e51fcefe4eda76baf150085cccbdfecc29ba4d2b40771",
+    "size":  18053397,
+    "notes":  "Phones and tablets: the big live score and event cards on Sports and Home tint each half with its team\u0027s colours, like the schedule cards. The event list rows tint top and bottom, with the teams in the order they\u0027re listed.",
+    "sourceCommit":  "87c1fa26b28c3b0c47d9ff2237fa458b833e8d28"
 }
