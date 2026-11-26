@@ -1,9 +1,9 @@
 {
-    "versionCode":  472514,
-    "versionName":  "0.13.1",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.1-472514/streammate-472514.apk",
-    "sha256":  "a1264e31185f775dca07460274f0f3a923f48737f0738438532f10f603a9d14a",
-    "size":  18103765,
-    "notes":  "Movies and episodes have a seek bar you can use. With a remote, press Up from the buttons to select it, then Left or Right to move; hold to go faster, and the video jumps there when you stop or press OK. On a phone or tablet, tap or drag it.\n\nFavorites: a guide with just your favorite channels, plus any channel showing a show or movie you\u0027ve favorited in the next 12 hours. On tablets, foldables and TV it\u0027s under Live TV once you\u0027ve favorited something. On a phone, add it to your menu bar in Settings \u003e Menu bar.\n\nSettings \u003e Providers shows your providers straight away, as tiles of the same size, with Add provider among them. Back from editing a provider returns to that page.\n\nSettings \u003e About starts with View onboarding (moved from General) and View changelog; the diagnostics tools are under them.\n\nTV: Back hides the player\u0027s controls first; it leaves full screen only when nothing is showing. Settings \u003e General: with Start playing when the app opens on, a new Open in full screen option starts your last channel full screen. About\u0027s two buttons are joined in one pill.\n\nFixed: a high-bitrate movie could make StreamMate close by itself on a TV. The player buffered so much video that the app ran out of memory; it now buffers less (still plenty to ride out a slow connection).",
-    "sourceCommit":  "cbc13112011d398b2284534d53b29ca24716d2a0"
+    "versionCode":  472756,
+    "versionName":  "0.13.2",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.2-472756/streammate-472756.apk",
+    "sha256":  "cdc076fb36d2b35a76235f5274dd26964a70d9a9537414bb7b1e926ed75ce8ee",
+    "size":  18103925,
+    "notes":  "Fixed: holding OK on a favorite channel in the TV guide showed Favorite channel instead of Unfavorite channel, so a favorite couldn\u0027t be removed from there. Options menus now update as soon as they know the answer, and Favorite or Unfavorite channel sits near the top of the menu.\n\nTV: a group\u0027s options have Sort groups and Sort channels in this group. Each offers Provider order, A to Z, or By hand, where OK picks one up and Up and Down move it. Your choice is kept for that list.",
+    "sourceCommit":  "6600eb8321c281a0fa5d195cc2e119586ec182ac"
 }
