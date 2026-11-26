@@ -1,9 +1,9 @@
 {
-    "versionCode":  472756,
-    "versionName":  "0.13.2",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.2-472756/streammate-472756.apk",
-    "sha256":  "cdc076fb36d2b35a76235f5274dd26964a70d9a9537414bb7b1e926ed75ce8ee",
-    "size":  18103925,
-    "notes":  "Fixed: holding OK on a favorite channel in the TV guide showed Favorite channel instead of Unfavorite channel, so a favorite couldn\u0027t be removed from there. Options menus now update as soon as they know the answer, and Favorite or Unfavorite channel sits near the top of the menu.\n\nTV: a group\u0027s options have Sort groups and Sort channels in this group. Each offers Provider order, A to Z, or By hand, where OK picks one up and Up and Down move it. Your choice is kept for that list.",
-    "sourceCommit":  "6600eb8321c281a0fa5d195cc2e119586ec182ac"
+    "versionCode":  473489,
+    "versionName":  "0.13.3",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.3-473489/streammate-473489.apk",
+    "sha256":  "74ee3d7c3d55eb92356e64347d8e9f8855f833672567ba00823f620e7ca15d39",
+    "size":  18103981,
+    "notes":  "TV: the Favorites group\u0027s options have Sort favorite channels: Date added, Newest first, A to Z, or By hand. It\u0027s the same order as Settings \u003e Favorites \u0026 categories.",
+    "sourceCommit":  "443517291800c90dcfbbe8a478f0a4a95dbb0bba"
 }
