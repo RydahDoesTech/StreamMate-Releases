@@ -1,9 +1,9 @@
 {
-    "versionCode":  473489,
-    "versionName":  "0.13.3",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.3-473489/streammate-473489.apk",
-    "sha256":  "74ee3d7c3d55eb92356e64347d8e9f8855f833672567ba00823f620e7ca15d39",
-    "size":  18103981,
-    "notes":  "TV: the Favorites group\u0027s options have Sort favorite channels: Date added, Newest first, A to Z, or By hand. It\u0027s the same order as Settings \u003e Favorites \u0026 categories.",
-    "sourceCommit":  "443517291800c90dcfbbe8a478f0a4a95dbb0bba"
+    "versionCode":  473511,
+    "versionName":  "0.13.4",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.4-473511/streammate-473511.apk",
+    "sha256":  "32e2de138346a989c5a36a06f36b351cafba8b9336b3e146ff46389f97c74e37",
+    "size":  18104057,
+    "notes":  "Fixed: with Hide when idle turned on for the phone\u0027s menu bar, an unfolded foldable or a tablet also hid its side menu. The setting now applies to phone-sized screens only; the side menu always stays.",
+    "sourceCommit":  "aad2d2e92edd0affa025577667d31e7ce3f75465"
 }
