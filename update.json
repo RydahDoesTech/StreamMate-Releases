@@ -1,9 +1,9 @@
 {
-    "versionCode":  472275,
-    "versionName":  "0.13.0",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.0-472275/streammate-472275.apk",
-    "sha256":  "9682dc41d4dd7e61d972e899bc86cbc42404f67a159ba889bfb63eb73db6dd29",
-    "size":  18086941,
-    "notes":  "Trakt works with the new kind of Trakt app, which has a client ID and no client secret. Settings \u003e Connections needs just the client ID. On a phone or tablet, Connect opens Trakt\u0027s sign-in in your browser and brings you back to StreamMate. On a TV, StreamMate shows a code to enter at trakt.tv/activate on your phone, as before; phones can use a code too.\n\nTrakt sign-in is kept safely: it\u0027s locked with this device\u0027s own key, renewed before it runs out, and Disconnect signs StreamMate out of Trakt too. Check connection confirms it\u0027s working. An existing Trakt connection keeps working; if Trakt has ended it, Settings says so and asks you to connect again.\n\nA movie or episode you watch to the end is added to your Trakt or Simkl history straight away. Since it keeps playing in the small picture afterwards, it used to wait until you pressed Stop.",
-    "sourceCommit":  "34d4927308c4b4a1dfeb27e7e78b609464f94ee4"
+    "versionCode":  472514,
+    "versionName":  "0.13.1",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.1-472514/streammate-472514.apk",
+    "sha256":  "a1264e31185f775dca07460274f0f3a923f48737f0738438532f10f603a9d14a",
+    "size":  18103765,
+    "notes":  "Movies and episodes have a seek bar you can use. With a remote, press Up from the buttons to select it, then Left or Right to move; hold to go faster, and the video jumps there when you stop or press OK. On a phone or tablet, tap or drag it.\n\nFavorites: a guide with just your favorite channels, plus any channel showing a show or movie you\u0027ve favorited in the next 12 hours. On tablets, foldables and TV it\u0027s under Live TV once you\u0027ve favorited something. On a phone, add it to your menu bar in Settings \u003e Menu bar.\n\nSettings \u003e Providers shows your providers straight away, as tiles of the same size, with Add provider among them. Back from editing a provider returns to that page.\n\nSettings \u003e About starts with View onboarding (moved from General) and View changelog; the diagnostics tools are under them.\n\nTV: Back hides the player\u0027s controls first; it leaves full screen only when nothing is showing. Settings \u003e General: with Start playing when the app opens on, a new Open in full screen option starts your last channel full screen. About\u0027s two buttons are joined in one pill.\n\nFixed: a high-bitrate movie could make StreamMate close by itself on a TV. The player buffered so much video that the app ran out of memory; it now buffers less (still plenty to ride out a slow connection).",
+    "sourceCommit":  "cbc13112011d398b2284534d53b29ca24716d2a0"
 }
