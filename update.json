@@ -1,9 +1,9 @@
 {
-    "versionCode":  473511,
-    "versionName":  "0.13.4",
-    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.13.4-473511/streammate-473511.apk",
-    "sha256":  "32e2de138346a989c5a36a06f36b351cafba8b9336b3e146ff46389f97c74e37",
-    "size":  18104057,
-    "notes":  "Fixed: with Hide when idle turned on for the phone\u0027s menu bar, an unfolded foldable or a tablet also hid its side menu. The setting now applies to phone-sized screens only; the side menu always stays.",
-    "sourceCommit":  "aad2d2e92edd0affa025577667d31e7ce3f75465"
+    "versionCode":  473859,
+    "versionName":  "0.14.0",
+    "apk":  "https://github.com/RydahDoesTech/StreamMate-Releases/releases/download/v0.14.0-473859/streammate-473859.apk",
+    "sha256":  "aec1a55a104c6fc338b573032d4007ed63c60c15f37a9c50506d139029dc8639",
+    "size":  18120661,
+    "notes":  "StreamMate now comes in two builds. The Google Play build is installed and updated by Google Play, so it has no Updates page. The Dev build gets test builds straight away through Settings \u003e Updates, and installs next to the Play copy with its own data. About shows \"Dev build\" next to the build number. To move your setup over, back it up in Settings \u003e Backup and restore it in the other app.\nRecordings and reminders: onboarding\u0027s Reminders page now also asks for Android\u0027s Alarms \u0026 reminders access, so they start right on time. If it\u0027s off, Settings \u003e Recordings has an Allow alarms button.",
+    "sourceCommit":  "1f6a96a5573f1570c4f6b1f4c42fa5f3d40f6f95"
 }
